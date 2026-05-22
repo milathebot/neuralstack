@@ -1,4 +1,4 @@
-# MunchPad — Project Brief
+# Overclock — Project Brief
 **Focus Gummies for Builders | Toronto, Canada**
 **Version 3.0 | May 2025**
 
@@ -6,7 +6,7 @@
 
 ## EXECUTIVE SUMMARY
 
-MunchPad is a nootropic gummy brand for gamers, coders, and Web3 builders. One SKU. One niche. One shot at owning the focus moment.
+Overclock is a nootropic gummy brand for gamers, coders, and Web3 builders. One SKU. One niche. One shot at owning the focus moment.
 
 No gym references. No wellnessfluencer copy. No protein line. Just: you're in the zone, you need to stay there, take one of these.
 
@@ -58,9 +58,9 @@ No brand in Canada is speaking directly to the coder in flow state, the gamer gr
 
 ## 3. BRAND
 
-### Name: MunchPad
+### Name: Overclock
 
-**Rationale:** A pad is your workspace. Munch is what you do while you're there. "MunchPad" is the snack that belongs on a builder's desk. It says exactly what it is, exactly who it's for, and it sounds like a brand that belongs in a coder's workflow.
+**Rationale:** A pad is your workspace. Munch is what you do while you're there. "Overclock" is the snack that belongs on a builder's desk. It says exactly what it is, exactly who it's for, and it sounds like a brand that belongs in a coder's workflow.
 
 **One-liner:** Find your focus. Stay there.
 
@@ -151,12 +151,12 @@ No brand in Canada is speaking directly to the coder in flow state, the gamer gr
 
 ### Why This Works
 
-Your friend's energy drink brand (yerba mate, etc.) covers the hydration/energy angle. MunchPad covers the snack/focus angle. Same person, same flow state moment, two different products. Natural bundle.
+Your friend's energy drink brand (yerba mate, etc.) covers the hydration/energy angle. Overclock covers the snack/focus angle. Same person, same flow state moment, two different products. Natural bundle.
 
 ### Bundle Concept
 
 **"The Focus Bundle"**
-- Drink + MunchPad gummies sold together at events
+- Drink + Overclock gummies sold together at events
 - Higher AOV (average order value)
 - 50/50 revenue split on the bundle
 - Cross-promote on socials
@@ -168,7 +168,7 @@ Your friend's energy drink brand (yerba mate, etc.) covers the hydration/energy 
 
 ### Non-Conflict Agreement
 - Her brand: drinks, RTD, hydration
-- MunchPad: gummies, snack, focus
+- Overclock: gummies, snack, focus
 - No overlap. No competition. Just complementary sales at the same events.
 
 ---

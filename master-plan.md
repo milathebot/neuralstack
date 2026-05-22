@@ -1,11 +1,11 @@
-# MunchPad — Master Plan
+# Overclock — Master Plan
 **Actionable Project Outline | Toronto, Canada | May 2025**
 
 ---
 
 ## WHAT WE'RE BUILDING
 
-MunchPad is a nootropic gummy brand targeting gamers, coders, and Web3 builders in Canada. One SKU. One niche. One shot at owning the focus moment.
+Overclock is a nootropic gummy brand targeting gamers, coders, and Web3 builders in Canada. One SKU. One niche. One shot at owning the focus moment.
 
 **Product:** Focus gummy — Lion's Mane + L-Theanine + Caffeine + B6, 20-count pouch
 **Price:** $4 wholesale / $7 retail
@@ -38,14 +38,14 @@ This is a pre-launch project. Everything below is what needs to happen to get to
 **Goal: Legally exist and own the digital presence.**
 
 #### 1.1 — Register Domain
-- [ ] Register **MunchPad.ca** (priority — Canada brand)
-- [ ] Also check/register **MunchPad.co** (backup)
+- [ ] Register **Overclock.ca** (priority — Canada brand)
+- [ ] Also check/register **Overclock.co** (backup)
 - Est. cost: $10–$20/year
 - Use: Namecheap, Hover, or Cloudflare
 
 #### 1.2 — Incorporate
 - [ ] File federal + provincial incorporation in Ontario
-- [ ] Corporate name: **MunchPad Inc.** (or similar)
+- [ ] Corporate name: **Overclock Inc.** (or similar)
 - Est. cost: $300–$400 (federal ~$200, Ontario ~$200)
 - Use: Ownr.ca (simplest for Ontario) or a paralegal
 - Timeline: 1–3 business days for Ontario incorporation
@@ -58,13 +58,13 @@ This is a pre-launch project. Everything below is what needs to happen to get to
 - Est. cost: $0–$20/month
 
 #### 1.4 — CIPO Trademark Search
-- [ ] Run a search on CIPO (Canadian Intellectual Property Office) for "MunchPad" in Class 30 (food/drink)
+- [ ] Run a search on CIPO (Canadian Intellectual Property Office) for "Overclock" in Class 30 (food/drink)
 - [ ] If clear, file a trademark application
 - Est. cost: ~$500–$800 for filing
 - Note: Do this before spending money on branding that might conflict
 
 #### 1.5 — Domain Email
-- [ ] Set up **hello@MunchPad.ca** or **hello@MunchPad.co** via Cloudflare Email Routing (free) or Google Workspace (~$8/month)
+- [ ] Set up **hello@Overclock.ca** or **hello@Overclock.co** via Cloudflare Email Routing (free) or Google Workspace (~$8/month)
 
 ---
 
@@ -137,7 +137,7 @@ This is a pre-launch project. Everything below is what needs to happen to get to
   - A simple sign or banner (foldable, portable)
   - Business cards or a link to the online store (for future D2C)
 - [ ] Practice a 15-second pitch:
-  > "MunchPad — focus gummies for gamers and coders. Lion's Mane, L-Theanine, one coffee's worth of caffeine. No crash. Berry flavor. $7."
+  > "Overclock — focus gummies for gamers and coders. Lion's Mane, L-Theanine, one coffee's worth of caffeine. No crash. Berry flavor. $7."
 
 #### 3.3 — Execute First Event
 - [ ] Attend the event, staff the table
@@ -280,6 +280,6 @@ Before attending the first event, confirm:
 
 ---
 
-*This document is the source of truth for MunchPad Phase 1. Update as you learn more.*
+*This document is the source of truth for Overclock Phase 1. Update as you learn more.*
 
 *Prepared by: Cleo | May 2025*
