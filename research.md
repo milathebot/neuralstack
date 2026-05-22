@@ -1,16 +1,17 @@
-# LateNight — Market Research
+# MunchPad — Market Research
 *Toronto, Canada | Nootropics gummies for gamers/coders/builders*
 
 ---
 
 ## MARKET CONTEXT
 
-**Category:** Nootropic gummies, late-night focus snacks
-**Audience:** Gamers (18–35), coders (18–40), Web3 builders, 3am grinders
+**Category:** Nootropic gummies, focus snacks for builders
+**Audience:** Gamers (18–35), coders (18–40), Web3 builders, people in flow state
 **Format:** Focus gummy (Lion's Mane + L-Theanine + Caffeine + B6), 20-count pouch
 **Price:** $4 wholesale / $7 retail
 **Venue:** Events (Superteam Canada, Solana meetups, farmers markets, festivals)
 **Partnership:** Complementary to drink brand (bundle opportunity, no conflict)
+**Positioning:** Find your focus. Stay there.
 
 ---
 
@@ -20,7 +21,7 @@
 
 | Brand | Format | Price | Positioning | Weakness |
 |-------|--------|-------|-------------|----------|
-| **NeuroVance** | Brain health gummies | $4.99–$7.99 | General brain health, wellness | Not late-night, not gamer-focused |
+| **NeuroVance** | Brain health gummies | $4.99–$7.99 | General brain health, wellness | Not flow-state, not gamer-focused |
 | **Figma Snacks** | Focus bars | $4.99 | Gamer-adjacent, online only | Weak brand, online-only |
 | **Hedd Chocolate** | Functional chocolate | $5.99–$8.99 | Mushroom nootropics, premium | Not gaming-adjacent, not gummy |
 | **Vivid** | Energy gummies | $5.99 | Energy, focus, convenience | Convenience stores, not nootropic |
@@ -36,7 +37,7 @@
 
 ### Gap
 
-No brand owns the late-night builder moment in Canada. Nobody is speaking to the 3am coder, the Discord-grinding gamer, the Web3 degen. This is the opportunity.
+No brand owns the focus moment for builders in Canada. Nobody is speaking to the coder in flow state, the gamer grinding ranked, the Web3 builder shipping. This is the opportunity.
 
 ---
 
@@ -70,7 +71,7 @@ No brand owns the late-night builder moment in Canada. Nobody is speaking to the
 - No NPN required for conventional functional food (structure/function claims only)
 - Allowed: "Supports focus," "Promotes calm," "Contributes to cognitive function"
 - Forbidden: "Treats," "Cures," "Clinically proven," drug claims
-- Bilingual label required (EN + FR)
+- Bilingual label required (EN + FR) — Quebec compliance
 - Caffeine disclosure required (50mg = one coffee's equivalent)
 - Allergen declarations (top 10)
 - Nutrition Facts table
@@ -98,7 +99,7 @@ No brand owns the late-night builder moment in Canada. Nobody is speaking to the
 
 ## DIFFERENTIATORS
 
-1. **Late-night identity** — time-specific positioning no competitor owns
+1. **Flow-state identity** — focus-and-flow positioning no competitor owns
 2. **Builder/coder voice** — not wellness, not gym, not generic brain health
 3. **Event channel** — first-mover at Web3/Solana/Superteam events
 4. **Drink partnership** — complementary bundle opportunity
@@ -112,3 +113,17 @@ No brand owns the late-night builder moment in Canada. Nobody is speaking to the
 - DIY production limits scale
 - US competitor entry (watch Genius Brands)
 - Taste/formulation iteration needed
+- Quebec bilingual labeling adds complexity
+
+---
+
+## SOURCING NOTES
+
+- Bulk supplements: Nutri.ca, Amazon, Direct Nutrition Supply
+- Gummy mold: Amazon ($30–$60 silicone mold, one-time buy)
+- Packaging pouches: Alibaba, Uline, or local print shop
+- Co-manufacturer setup fees typically $500–$1,000 (not viable until Phase 2)
+
+---
+
+*Prepared by: Cleo | May 2025*

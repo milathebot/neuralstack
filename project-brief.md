@@ -1,22 +1,22 @@
 # MunchPad — Project Brief
 **Focus Gummies for Builders | Toronto, Canada**
-**Version 2.0 | May 2025**
+**Version 3.0 | May 2025**
 
 ---
 
 ## EXECUTIVE SUMMARY
 
-MunchPad is a nootropic gummy brand for gamers, coders, and Web3 builders. One SKU. One niche. One shot at owning the late-night focus moment.
+MunchPad is a nootropic gummy brand for gamers, coders, and Web3 builders. One SKU. One niche. One shot at owning the focus moment.
 
-No gym references. No wellnessfluencer copy. No protein line. Just: it's late, you're building, take one of these.
+No gym references. No wellnessfluencer copy. No protein line. Just: you're in the zone, you need to stay there, take one of these.
 
-**Tagline:** Stay sharp past midnight.
+**Tagline:** Find your focus. Stay there.
 
 **Format:** Focus gummy (Lion's Mane + L-Theanine + Caffeine + B6), 20-count pouch
 
 **Price:** $4 wholesale / $7 retail (20-serving pouch)
 
-**Audience:** 18–35, desk-bound 8–16 hours/day, late-night grinders, Web3 builders, gamers
+**Audience:** 18–35, desk-bound 8–16 hours/day, gamers, coders, Web3 builders
 
 **Channel:** Events first — Superteam Canada, Solana meetups, farmers markets, festivals
 
@@ -39,9 +39,9 @@ No gym references. No wellnessfluencer copy. No protein line. Just: it's late, y
 
 ### The Gap
 
-No brand in Canada is speaking directly to the late-night coder, Discord-grinding gamer, or 3am Web3 degen. Existing nootropic brands (NeuroVance, Hedd Chocolate) skew wellness and general brain health. Nobody is building specifically for the "it's 11pm and I have 4 more hours to ship" moment.
+No brand in Canada is speaking directly to the coder in flow state, the gamer grinding ranked, or the builder shipping a feature. Existing nootropic brands (NeuroVance, Hedd Chocolate) skew wellness and general brain health. Nobody is building specifically for the "I'm in the zone — don't let me lose it" moment.
 
-**The opportunity:** Own the late-night builder niche in Canada before a US player enters.
+**The opportunity:** Own the focus-and-flow niche in Canada before a US player enters.
 
 ---
 
@@ -49,8 +49,8 @@ No brand in Canada is speaking directly to the late-night coder, Discord-grindin
 
 | Problem | Current Reality |
 |---------|----------------|
-| Energy drinks cause jitters and crash | You ship at 2am but feel like garbage at 4am |
-| No snack brand speaks to late-night coders | It's either gym supplements or boring wellness bars |
+| Energy drinks cause jitters and crash | You get started but can't stay there |
+| No snack brand speaks to flow-state workers | It's either gym supplements or boring wellness bars |
 | Energy drink + snack combo doesn't exist at events | Two separate purchases, no bundling, no synergy |
 | Your friend's drink brand is complementary | Not a conflict — a bundle opportunity |
 
@@ -60,15 +60,15 @@ No brand in Canada is speaking directly to the late-night coder, Discord-grindin
 
 ### Name: MunchPad
 
-**Rationale:** Tells time, tells mood, tells audience. "It's late. I'm still building." It's not a wellness brand name — it's a timestamp that says exactly who it's for.
+**Rationale:** A pad is your workspace. Munch is what you do while you're there. "MunchPad" is the snack that belongs on a builder's desk. It says exactly what it is, exactly who it's for, and it sounds like a brand that belongs in a coder's workflow.
 
-**One-liner:** Stay sharp past midnight.
+**One-liner:** Find your focus. Stay there.
 
-**Personality:** Direct. No fluff. No "optimize your biohacking." Just: here, take one, you'll be fine for the next few hours.
+**Personality:** Direct. No fluff. No "optimize your biohacking." Just: you're in the zone, you need to stay there, take one of these.
 
-**Visual direction:** Dark, moody, late-night energy. Dark backgrounds, amber/yellow accent (like a desk lamp at 1am), purple highlights (for the Web3/crypto edge). Monospace accents. Clean, minimal, like a well-designed code editor.
+**Visual direction:** Dark, clean, workspace energy. Dark backgrounds, amber/yellow accent (like a desk lamp), purple highlights (for the Web3/crypto edge). Monospace accents. Clean, minimal, like a well-designed code editor.
 
-**Not a gym brand.** Not a wellness brand. A late-night brand.
+**Not a gym brand.** Not a wellness brand. A builder's brand.
 
 ---
 
@@ -77,9 +77,9 @@ No brand in Canada is speaking directly to the late-night coder, Discord-grindin
 ### The Builder
 
 - Ages 18–35
-- Desk-bound 8–16 hours/day (coder, gamer, Web3 builder, Discord degen, hackathon participant)
-- Snacking while grinding — needs sustained focus without jitters
-- Drinks too much coffee, hates the crash
+- Desk-bound 8–16 hours/day (coder, gamer, Web3 builder, hackathon participant)
+- In flow state, needs sustained focus without jitters or a crash
+- Drinks too much coffee, hates the crash, needs something that keeps them there
 - Wants something that works, doesn't want to feel "supplemented"
 - Buys at events, online, supplement shops that get it
 
@@ -90,9 +90,9 @@ No brand in Canada is speaking directly to the late-night coder, Discord-grindin
 - Chalky protein bars
 
 **What they do want:**
-- Focus without jitters
+- Sustained focus without jitters or a crash
 - Something that actually tastes good
-- A brand that speaks their language
+- A brand that gets how they work
 - No preachy health claims
 
 ---
@@ -151,11 +151,11 @@ No brand in Canada is speaking directly to the late-night coder, Discord-grindin
 
 ### Why This Works
 
-Your friend's energy drink brand (yerba mate, etc.) covers the hydration/energy angle. MunchPad covers the snack/focus angle. Same person, same late-night moment, two different products. Natural bundle.
+Your friend's energy drink brand (yerba mate, etc.) covers the hydration/energy angle. MunchPad covers the snack/focus angle. Same person, same flow state moment, two different products. Natural bundle.
 
 ### Bundle Concept
 
-**"The All-Nighter Bundle"**
+**"The Focus Bundle"**
 - Drink + MunchPad gummies sold together at events
 - Higher AOV (average order value)
 - 50/50 revenue split on the bundle
@@ -164,7 +164,7 @@ Your friend's energy drink brand (yerba mate, etc.) covers the hydration/energy 
 
 ### The Pitch to Your Friend
 
-"Your drink + my gummy = all night builder bundle. Different categories, same person, same moment. No conflict, pure synergy."
+"Your drink + my gummy = focus bundle. Different categories, same person, same moment. No conflict, pure synergy."
 
 ### Non-Conflict Agreement
 - Her brand: drinks, RTD, hydration
@@ -195,178 +195,63 @@ Your friend's energy drink brand (yerba mate, etc.) covers the hydration/energy 
 
 | Brand | Format | Weakness |
 |-------|--------|----------|
-| NeuroVance | Brain health gummies | General wellness, not late-night focused |
+| NeuroVance | Brain health gummies | General wellness, not flow-state focused |
 | Figma Snacks | Focus bars | Online only, weak branding |
-| Hedd Chocolate | Mushroom chocolate | Premium, not gaming-adjacent |
-| Vivid | Energy gummies | Convenience/energy, not nootropic |
+| Hedd Chocolate | Functional chocolate | Premium, not gaming-adjacent |
+| Vivid | Energy gummies | Convenience stores, not nootropic |
+| Kickmate | Energy mints | Not gummy, not nootropic |
 
-### US (Watch)
+### US (Threat)
 
 | Brand | Threat | Notes |
 |-------|--------|-------|
-| Genius Brands | HIGH | Gaming-adjacent, strong brand, could enter Canada |
-| Brain Drink | MEDIUM | RTD format, could pivot |
+| Genius Brands | HIGH | Gaming-adjacent, strong brand, could enter Canada via Amazon |
+| Ka'Chava | MEDIUM | Premium omni-platform |
+| Brain Drink | MEDIUM | RTD, could pivot to gummy |
 
-**Our advantage:** Event channel first. US brands can't show up to Superteam events. We're embedded. Your network is the moat.
+### Gap
+
+No brand owns the focus moment for builders in Canada. Nobody is speaking to the coder in flow, the gamer grinding ranked, the Web3 builder shipping. This is the opportunity.
 
 ---
 
 ## 10. REGULATORY
 
-### Canada Requirements
-
-**No NPN required** for conventional functional snacks with structure/function claims (not drug claims).
-
-**Allowed claims:**
-- "Contains lion's mane for focus"
-- "L-theanine promotes calm focus"
-- "Vitamin B6 contributes to normal cognitive function"
-- "Source of energy" (with caffeine)
-
-**Forbidden claims:**
-- "Treats [condition]" / "Cures [condition]"
-- "Clinically proven" (requires RCT)
-- Any drug claim
-
-**Label requirements:**
-- Bilingual (English + French) — mandatory
-- Nutrition Facts table
+- No NPN required for conventional functional food (structure/function claims only)
+- Allowed: "Supports focus," "Promotes calm," "Contributes to cognitive function"
+- Forbidden: "Treats," "Cures," "Clinically proven," drug claims
+- Bilingual label required (EN + FR) — Quebec compliance
+- Caffeine disclosure required (50mg = one coffee's equivalent)
 - Allergen declarations (top 10)
-- Ingredient list (descending order by weight)
-- Net quantity (metric)
-- Manufacturer name + address
-- Caffeine disclosure (50mg = one coffee's equivalent)
-
-**Lion's Mane / L-Theanine / Caffeine:** All accepted as food ingredients in Canada. No novel food issues. Safe to use.
-
-**Budget for regulatory review:** $0–$300 (DIY phase — can self-review labels with Health Canada guide)
+- Nutrition Facts table
 
 ---
 
-## 11. PRODUCTION — DIY Phase
+## 11. SUPPLY CHAIN
 
-### Why DIY First
+### DIY (Phase 1 — current)
 
-- $1,500 budget doesn't cover co-manufacturer setup fees ($500–$1,000 setup + MOQ minimums)
-- Test the product with real people before committing to 500 units nobody wants
-- Full control over formulation iteration — change recipe based on feedback fast
-- Learn the process. Be the expert. Then outsource.
+| Item | Source | Est. Cost |
+|------|--------|-----------|
+| Lion's Mane 250mg | Nutri.ca, Amazon, Direct Nutrition Supply | ~$10 |
+| L-Theanine 100mg | Same | ~$5 |
+| Caffeine powder | Same | ~$5 |
+| Vitamin B6 | Same | ~$3 |
+| Gelatin + flavor | Amazon, local | ~$10 |
+| Gummy mold | Amazon | $30–$60 |
+| Packaging pouches | Alibaba, Uline, local print | ~$30–$50 |
+| **Total first run** | | **~$93–$143** |
 
-### DIY Sourcing
+### Phase 2: Co-Manufacturers
 
-| Item | Source | Cost |
-|------|--------|------|
-| Lion's Mane powder | Nutri.ca, Amazon | $30–$50/100g |
-| L-Theanine | Nutri.ca, Amazon | $20–$30/100g |
-| Caffeine powder | Nutri.ca (pharmaceutical grade) | $15–$25/100g |
-| Vitamin B6 | Amazon | $10–$15 |
-| Gummy mold (silicone) | Amazon | $30–$60 |
-| Gelatin + flavor | Grocery store | $20–$30 |
-| Packaging pouches | Alibaba, Uline | $50–$100 |
+| Manufacturer | Location | MOQ | Est. Cost/Serving |
+|-------------|----------|-----|-------------------|
+| Brandable Nutrition | Ontario | 250 | ~$1.50 |
+| NutriCorp | Ontario | 500 | ~$1.75 |
+| PharmaGene | Quebec | 500 | ~$2.00 |
 
-### Test Batch (50–100 gummies)
-- Estimated cost: $50–$100
-- Make at home, test with friends at a meetup
-- Get feedback, iterate formula
-
-### First Real Run (200 pouches)
-- Estimated cost: $500–$700 (ingredients + packaging + print)
-- Sell at first event
-
----
-
-## 12. CO-MANUFACTURERS (Phase 2)
-
-When to move to co-manufacturer:
-- 100+ units sold at events (confirmed demand)
-- Formula locked (no more iteration)
-- $2,000+ budget for production run
-
-### Options
-
-| Manufacturer | Location | MOQ | Cost |
-|-------------|----------|-----|------|
-| Brandable Nutrition | Ontario | 250 | ~$1.50/serving |
-| NutriCorp | Ontario | 500 | ~$1.75/serving |
-| PharmaGene | Quebec | 500 | ~$2.00/serving |
-
-**Recommended:** Brandable Nutrition (Ontario, MOQ 250, lowest barrier to entry)
-
----
-
-## 13. TIMELINE
-
-| Week | Action | Cost |
-|------|--------|------|
-| 1–2 | Lock name, incorporate, register domain | $300–$400 |
-| 2–3 | Source ingredients, buy mold | $150–$200 |
-| 3–4 | Test batch (50–100 gummies), feedback | $50–$100 |
-| 4–5 | Label + packaging design + print | $100–$200 |
-| 5–6 | First event — sell | $0–$50 (table fee) |
-
-**Phase 2 trigger:** 100 units sold → co-manufacturer quote → $2,000 run
-
----
-
-## 14. BUDGET
-
-| Line Item | Low | High |
-|-----------|-----|------|
-| Incorporation (federal + provincial) | $300 | $400 |
-| Domain + logo design | $50 | $100 |
-| Ingredients + small mold | $150 | $200 |
-| Test batch | $50 | $100 |
-| Label + packaging | $100 | $200 |
-| First real run (200 pouches) | $500 | $700 |
-| Event table fee | $0 | $50 |
-| **Total** | **$1,150** | **$1,750** |
-
-**Budget: $1,500–$2,000**
-
-**Revenue reinvest:** After first event weekend (100–150 pouches sold) → $700–$1,050 revenue → reinvest in batch 2
-
----
-
-## 15. RISKS
-
-| Risk | Mitigation |
-|------|------------|
-| Regulatory error | Keep claims vanilla. "Supports focus" not "treats focus." DIY review with Health Canada guide. |
-| Taste failure | Test batch on real people first. First formula might be rough — iterate fast. |
-| Scale constraint | DIY works to 100–200 units. Beyond that, budget $2,000+ for co-manufacturer. |
-| US competitor entry | First-mover on event channel. Your network is defensible. |
-| Low initial demand | Pre-sell at events before committing to real run. Validate before you spend. |
-
----
-
-## 16. RECOMMENDED NEXT STEPS
-
-1. **Lock brand name** — MunchPad.co or MunchPad.ca. Register immediately.
-2. **Incorporate** — Federal + provincial. Protect the name.
-3. **Source ingredients** — Order from Nutri.ca or Amazon. Spend $100–$150.
-4. **Buy gummy mold** — Amazon, $30–$60 silicone mold.
-5. **Make first test batch** — 50 gummies, test at next Solana/Superteam meetup.
-6. **Get feedback** — What worked? What didn't? Iterate.
-7. **Finalize label** — Simple sticker, bilingual, CFIA-compliant.
-8. **First real event** — Sell 100–150 pouches, validate demand.
-9. **Talk to drink partner** — Propose the All-Nighter Bundle.
-
----
-
-## 17. APPENDIX: NAME OPTIONS
-
-If MunchPad doesn't land, alternatives:
-
-| Rank | Name | Rationale |
-|------|------|-----------|
-| 1 | MunchPad | Time tells everything |
-| 2 | Sharp | Short, gaming term, "stay sharp" |
-| 3 | Grind | Gamer/coder vocabulary |
-| 4 | Build | What they do, "building" |
-| 5 | NightShift | Late-night, worker vibe |
-| 6 | Stack | Supplement vocabulary + gamer term |
+**Recommendation:** Brandable Nutrition (Ontario, MOQ 250, lowest barrier to entry)
 
 ---
 
 *Prepared by: Cleo | May 2025*
-*For internal planning purposes only. Not an investor document.*
