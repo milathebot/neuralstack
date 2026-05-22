@@ -6,18 +6,21 @@
     <title>Overclock — Brand Pitch Deck</title>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
-        
+
         :root {
-            --bg: #0a0a0f;
-            --surface: #12121a;
-            --border: #1e1e2e;
-            --text: #e8e8f0;
-            --muted: #6b6b80;
-            --accent: #f59e0b;
-            --accent-light: #fbbf24;
-            --green: #10b981;
-            --purple: #a78bfa;
+            --bg: #0d0b09;
+            --surface: #1a1612;
+            --surface2: #241f1a;
+            --border: #2e2820;
+            --text: #e8e0d5;
+            --muted: #8a7e72;
+            --accent: #c8935a;
+            --accent-light: #e8b880;
+            --green: #7db87a;
+            --white: #f5f0eb;
         }
+
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500&display=swap');
 
         body {
             background: var(--bg);
@@ -38,45 +41,51 @@
 
         .tag {
             display: inline-block;
-            font-size: 12px;
+            font-size: 11px;
             font-weight: 600;
             text-transform: uppercase;
-            letter-spacing: 2px;
-            color: var(--accent-light);
+            letter-spacing: 3px;
+            color: var(--accent);
             margin-bottom: 24px;
+            font-family: 'JetBrains Mono', monospace;
         }
 
         h1 {
-            font-size: 80px;
-            font-weight: 800;
-            line-height: 1.05;
-            margin-bottom: 32px;
+            font-size: 96px;
+            font-weight: 900;
+            line-height: 0.95;
+            margin-bottom: 40px;
+            letter-spacing: -3px;
         }
 
         h2 {
-            font-size: 48px;
-            font-weight: 700;
+            font-size: 52px;
+            font-weight: 800;
             margin-bottom: 40px;
-            line-height: 1.2;
+            line-height: 1.1;
+            letter-spacing: -1px;
         }
 
         h3 {
-            font-size: 28px;
+            font-size: 22px;
             font-weight: 600;
-            margin-bottom: 24px;
+            margin-bottom: 20px;
             color: var(--accent-light);
+            letter-spacing: 0.5px;
         }
 
         p {
-            font-size: 22px;
+            font-size: 20px;
             color: var(--muted);
-            max-width: 700px;
-            margin-bottom: 24px;
+            max-width: 680px;
+            margin-bottom: 20px;
+            line-height: 1.7;
         }
 
-        .accent { color: var(--accent-light); }
+        .accent { color: var(--accent); }
         .green { color: var(--green); }
-        .purple { color: var(--purple); }
+        .white { color: var(--white); }
+        .muted { color: var(--muted); }
 
         .grid-2 {
             display: grid;
@@ -88,634 +97,811 @@
         .grid-3 {
             display: grid;
             grid-template-columns: 1fr 1fr 1fr;
-            gap: 32px;
+            gap: 24px;
             margin-top: 40px;
         }
 
         .card {
             background: var(--surface);
             border: 1px solid var(--border);
-            border-radius: 16px;
-            padding: 32px;
+            border-radius: 12px;
+            padding: 28px;
         }
 
-        .card .label {
-            font-size: 13px;
+        .card-accent {
+            background: var(--surface2);
+            border: 1px solid var(--accent);
+            border-radius: 12px;
+            padding: 28px;
+        }
+
+        .label {
+            font-size: 11px;
             font-weight: 600;
             text-transform: uppercase;
-            letter-spacing: 1.5px;
-            color: var(--accent-light);
+            letter-spacing: 2px;
+            color: var(--muted);
+            font-family: 'JetBrains Mono', monospace;
             margin-bottom: 12px;
         }
 
-        .card .value {
-            font-size: 36px;
-            font-weight: 700;
-            margin-bottom: 8px;
-        }
-
-        .card .desc {
-            font-size: 16px;
-            color: var(--muted);
-        }
-
-        .tag-list {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 12px;
-            margin-top: 24px;
-        }
-
-        .tag-item {
-            background: var(--surface);
-            border: 1px solid var(--border);
-            border-radius: 8px;
-            padding: 12px 20px;
-            font-size: 16px;
-            font-weight: 500;
-        }
-
-        .check-list li {
-            font-size: 22px;
-            margin-bottom: 20px;
-            padding-left: 40px;
-            position: relative;
-            color: var(--text);
-        }
-
-        .check-list li::before {
-            content: "✓";
-            position: absolute;
-            left: 0;
-            color: var(--green);
-            font-weight: 700;
-        }
-
-        .big-number {
-            font-size: 80px;
+        .value {
+            font-size: 40px;
             font-weight: 800;
             color: var(--accent-light);
-            line-height: 1;
+            margin-bottom: 8px;
+            letter-spacing: -1px;
         }
 
-        .timeline {
-            display: flex;
-            gap: 24px;
-            margin-top: 48px;
-        }
-
-        .timeline-item {
-            flex: 1;
-            padding: 28px;
-            background: var(--surface);
-            border: 1px solid var(--border);
-            border-radius: 12px;
-        }
-
-        .timeline-item .phase {
-            font-size: 12px;
-            font-weight: 600;
-            text-transform: uppercase;
-            letter-spacing: 1.5px;
+        .value-lg {
+            font-size: 56px;
+            font-weight: 900;
             color: var(--accent-light);
-            margin-bottom: 10px;
+            letter-spacing: -2px;
         }
 
-        .timeline-item .title {
-            font-size: 22px;
-            font-weight: 700;
-            margin-bottom: 6px;
-        }
-
-        .timeline-item .time {
-            font-size: 15px;
+        .desc {
+            font-size: 14px;
             color: var(--muted);
-            margin-bottom: 12px;
-        }
-
-        .timeline-item .cost {
-            font-size: 18px;
-            font-weight: 600;
-            color: var(--green);
-        }
-
-        .manifesto {
-            font-size: 44px;
-            font-weight: 700;
-            line-height: 1.3;
-            color: var(--text);
-        }
-
-        .manifesto .night {
-            color: var(--accent-light);
-        }
-
-        .manifesto .sharp {
-            color: var(--purple);
+            line-height: 1.6;
         }
 
         .price-tag {
             display: inline-block;
-            background: var(--accent);
-            color: #000;
-            font-size: 24px;
-            font-weight: 800;
-            padding: 16px 32px;
+            background: var(--surface2);
+            border: 1px solid var(--border);
             border-radius: 8px;
-            margin-top: 24px;
-        }
-
-        .divider {
-            border-top: 1px solid var(--border);
-            margin: 48px 0;
+            padding: 12px 20px;
+            font-size: 16px;
+            font-weight: 700;
+            color: var(--accent-light);
+            margin-top: 20px;
+            font-family: 'JetBrains Mono', monospace;
         }
 
         .stack-row {
             display: flex;
             align-items: center;
+            gap: 16px;
+            padding: 14px 0;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .ingredient {
+            font-weight: 600;
+            color: var(--text);
+            width: 200px;
+            font-size: 15px;
+        }
+
+        .amount {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 13px;
+            color: var(--accent);
+            width: 80px;
+        }
+
+        .effect {
+            font-size: 13px;
+            color: var(--muted);
+            flex: 1;
+        }
+
+        .check-list {
+            list-style: none;
+            padding: 0;
+        }
+
+        .check-list li {
+            padding: 10px 0;
+            font-size: 17px;
+            color: var(--text);
+            border-bottom: 1px solid var(--border);
+            line-height: 1.5;
+        }
+
+        .check-list li:last-child { border-bottom: none; }
+
+        .check-list li::before {
+            content: "→";
+            color: var(--accent);
+            margin-right: 12px;
+            font-weight: 700;
+        }
+
+        .tag-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-top: 32px;
+        }
+
+        .tag-item {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            padding: 8px 14px;
+            font-size: 13px;
+            color: var(--muted);
+            font-family: 'JetBrains Mono', monospace;
+        }
+
+        .divider {
+            width: 48px;
+            height: 3px;
+            background: var(--accent);
+            margin: 24px 0;
+        }
+
+        .big-number {
+            font-size: 88px;
+            font-weight: 900;
+            color: var(--accent-light);
+            letter-spacing: -3px;
+            line-height: 1;
+        }
+
+        .manifesto {
+            font-size: 24px;
+            color: var(--muted);
+            line-height: 1.5;
+            max-width: 600px;
+            margin-bottom: 0;
+        }
+
+        .tin-label {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            padding: 32px;
+            text-align: center;
+        }
+
+        .tin-label .name {
+            font-size: 32px;
+            font-weight: 900;
+            color: var(--accent-light);
+            letter-spacing: 2px;
+            text-transform: uppercase;
+        }
+
+        .tin-label .sub {
+            font-size: 13px;
+            color: var(--muted);
+            margin-top: 8px;
+            font-family: 'JetBrains Mono', monospace;
+        }
+
+        .tin-label .flavor {
+            font-size: 14px;
+            color: var(--text);
+            margin-top: 16px;
+        }
+
+        .tin-label .count {
+            font-size: 12px;
+            color: var(--muted);
+            margin-top: 8px;
+            font-family: 'JetBrains Mono', monospace;
+        }
+
+        .timeline-row {
+            display: flex;
+            align-items: flex-start;
             gap: 32px;
             padding: 24px 0;
             border-bottom: 1px solid var(--border);
         }
 
-        .stack-row .ingredient {
-            font-size: 22px;
+        .timeline-row:last-child { border-bottom: none; }
+
+        .week {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 13px;
+            color: var(--accent);
             font-weight: 600;
-            min-width: 180px;
-            color: var(--accent-light);
+            width: 60px;
+            flex-shrink: 0;
         }
 
-        .stack-row .amount {
+        .week-title {
             font-size: 18px;
-            color: var(--muted);
-            min-width: 120px;
-        }
-
-        .stack-row .effect {
-            font-size: 18px;
-            color: var(--text);
-        }
-
-        .partner-box {
-            background: var(--surface);
-            border: 1px solid var(--border);
-            border-radius: 16px;
-            padding: 40px;
-            margin-top: 32px;
-            text-align: center;
-        }
-
-        .partner-box .title {
-            font-size: 28px;
             font-weight: 700;
-            color: var(--accent-light);
-            margin-bottom: 12px;
+            color: var(--text);
+            margin-bottom: 4px;
         }
 
-        .partner-box .desc {
-            font-size: 18px;
+        .week-desc {
+            font-size: 14px;
             color: var(--muted);
         }
 
-        @media print {
-            .slide {
-                min-height: 100vh;
-                page-break-after: always;
-            }
+        .comp-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 12px;
+            margin-top: 24px;
+        }
+
+        .comp-name {
+            font-size: 15px;
+            font-weight: 600;
+            color: var(--text);
+            padding: 12px 16px;
+            background: var(--surface);
+            border-radius: 8px;
+            border: 1px solid var(--border);
+        }
+
+        .comp-name.direct { border-color: var(--accent); }
+
+        .budget-row {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 12px 0;
+            border-bottom: 1px solid var(--border);
+            font-size: 15px;
+        }
+
+        .budget-row:last-child { border-bottom: none; }
+
+        .budget-key { color: var(--muted); }
+        .budget-val { font-weight: 700; color: var(--text); font-family: 'JetBrains Mono', monospace; }
+
+        .phase {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 12px;
+            color: var(--accent);
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 8px;
+        }
+
+        .time {
+            font-size: 13px;
+            color: var(--muted);
+            font-family: 'JetBrains Mono', monospace;
+            margin-bottom: 16px;
+        }
+
+        .cost {
+            font-size: 13px;
+            color: var(--muted);
+            margin-top: 4px;
+        }
+
+        .green-check { color: var(--green); font-weight: 700; margin-right: 6px; }
+        .espresso-bar {
+            width: 100%;
+            height: 4px;
+            background: linear-gradient(90deg, var(--accent) 0%, var(--surface2) 100%);
+            border-radius: 2px;
+            margin: 16px 0;
+        }
+
+        @media (max-width: 768px) {
+            .slide { padding: 40px 24px; }
+            h1 { font-size: 56px; }
+            h2 { font-size: 36px; }
+            .grid-2, .grid-3 { grid-template-columns: 1fr; }
+            .big-number { font-size: 56px; }
         }
     </style>
 </head>
 <body>
 
 <!-- SLIDE 1: COVER -->
-<div class="slide">
-    <div class="tag">Brand Pitch Deck</div>
-    <h1><span class="accent">Over</span><span class="purple">clock</span></h1>
-    <p class="manifesto">Find your focus.<br>Stay there.</p>
-    <p style="margin-top: 32px; font-size: 18px; color: var(--muted);">
-        Compressed mint tablets made with matcha, cacao, and lion's mane mushroom.<br>
-        Made in Ontario. Built for builders.
-    </p>
-    <div class="tag" style="margin-top: 64px; color: var(--muted);">Toronto, 2026 | Confidential — Internal Planning</div>
+<div class="slide" style="background: var(--bg); text-align: left;">
+    <div class="tag">Confidential — May 2026</div>
+    <h1><span class="accent">Over</span>clock</h1>
+    <p class="manifesto">Pressed focus mints.<br>Chocolate-espresso. Sugar-free.<br>Built for long sessions.</p>
+    <div class="espresso-bar"></div>
+    <p style="font-size: 15px; color: var(--muted); font-family: 'JetBrains Mono', monospace; margin-top: 32px;">Toronto, 2026 &nbsp;|&nbsp; overclock.co &nbsp;|&nbsp; Pre-seed</p>
 </div>
 
 <!-- SLIDE 2: THE PROBLEM -->
 <div class="slide">
-    <div class="tag">Problem</div>
-    <h2>You're in the zone.<br>The work is clicking.<br>Don't lose it.</h2>
-    <ul class="check-list">
-        <li>Energy drinks are making you jittery and crashing. You need sustained focus, not adrenaline.</li>
-        <li>Protein bars and gym snacks don't belong here. This isn't a gym brand. This is for people who work with their minds.</li>
-        <li>Nothing in Canada is made for the coder in flow state, the gamer grinding ranked, the builder shipping at 2pm or 2am.</li>
-        <li>Coffee gets you started. Nothing keeps you there. That's the gap.</li>
-    </ul>
-    <p style="margin-top: 40px;">The niche is specific. The people are real. The need is daily.</p>
-</div>
-
-<!-- SLIDE 3: THE OPPORTUNITY -->
-<div class="slide">
-    <div class="tag">Opportunity</div>
-    <h2>Build in silence.<br><span class="accent">Nobody is building this.</span></h2>
-    <div class="grid-3">
-        <div class="card">
-            <div class="label">Gamer/Coder (Ontario)</div>
-            <div class="value">2.4M</div>
-            <div class="desc">Daily active users, ages 18–40, desk-bound and deep in flow</div>
-        </div>
-        <div class="card">
-            <div class="label">Web3/Builders (GTA)</div>
-            <div class="value">10K+</div>
-            <div class="desc">High-intent foot traffic at Solana/Superteam events annually</div>
-        </div>
-        <div class="card">
-            <div class="label">Nootropics Market (Canada)</div>
-            <div class="value">$340M</div>
-            <div class="desc">Growing 12% YoY. Minties are the fastest-growing format.</div>
-        </div>
-    </div>
-    <div class="partner-box">
-        <div class="title">Partnership Ready</div>
-        <div class="desc">Your friend's energy drink brand + Overclock chocolate squares = complete focus stack.<br>Bundle at events. Cross-promote. Complementary, not competitive.</div>
-    </div>
-</div>
-
-<!-- SLIDE 4: AUDIENCE -->
-<div class="slide">
-    <div class="tag">The Person</div>
-    <h2>The Builder.<br>Find your flow. Protect it.</h2>
-    <div class="grid-2">
+    <div class="tag">The Problem</div>
+    <h2>The energy drink<br>aisle is a war zone.</h2>
+    <div class="grid-2" style="margin-top: 48px;">
         <div>
-            <h3>Who buys this</h3>
-            <ul class="check-list">
-                <li>18–35, desk-bound 8–16 hours/day</li>
-                <li>Coder shipping a feature, gamer grinding ranked, builder in flow state</li>
-                <li>Web3 builder running a node, hackathon participant, student deep in a project</li>
-                <li>Drinks too much coffee. Hates the crash. Needs something that keeps them there.</li>
+            <p style="font-size: 18px; color: var(--text); margin-bottom: 24px;">Gamers, coders, and builders need to stay sharp. The options are:</p>
+            <ul class="check-list" style="font-size: 16px;">
+                <li>Sugary RTDs — crash after 90 minutes, bad for you</li>
+                <li>Powder packs — mixing is friction, taste is usually terrible</li>
+                <li>Energy drinks — same problem, plus the jitters</li>
+                <li>Supplement pills — nobody feels like they're "supplementing"</li>
             </ul>
         </div>
-        <div>
-            <h3>What they need</h3>
-            <ul class="check-list">
-                <li>Sustained focus without jitters or a crash</li>
-                <li>Something that actually tastes good</li>
-                <li>A brand that gets how they work</li>
-                <li>No gym-bro energy, no wellness influencer vibes</li>
-            </ul>
+        <div class="card">
+            <div class="label">The gap</div>
+            <div style="font-size: 18px; color: var(--text); margin-top: 12px; line-height: 1.7;">
+                There's no discrete, fast, socially acceptable way to get a clean focus boost without reaching for a drink or a snack that undermines the state you're in.
+            </div>
+            <div style="margin-top: 20px;">
+                <div style="font-size: 40px; font-weight: 900; color: var(--accent-light);">$2.4B</div>
+                <div style="font-size: 14px; color: var(--muted);">North American functional snack market</div>
+            </div>
         </div>
     </div>
-    <p style="margin-top: 40px;">They don't want to feel supplemented. They want to feel sharp. There's a difference.</p>
 </div>
 
-<!-- SLIDE 5: BRAND -->
-<div class="slide">
-    <div class="tag">Brand</div>
-    <h1><span class="accent">Over</span><span class="purple">clock</span></h1>
-    <p class="manifesto">Built for flow.<br>Snacks that support your focus.</p>
-    <div class="tag-list" style="margin-top: 40px;">
-        <span class="tag-item">Functional Chocolate</span>
-        <span class="tag-item">Matcha + Cacao</span>
-        <span class="tag-item">Lion's Mane</span>
-        <span class="tag-item">Gamer / Coder / Builder</span>
-        <span class="tag-item">Made in Ontario</span>
-    </div>
-    <p style="margin-top: 40px;">No gym references. No wellnessfluencer copy. No "optimize your biohacking" language. Just: you're in the zone, you need to stay there, take one of these.</p>
-</div>
-
-<!-- SLIDE 6: PRODUCT -->
+<!-- SLIDE 3: THE PRODUCT -->
 <div class="slide">
     <div class="tag">The Product</div>
-<h2>One SKU. No overthinking.<br>Focus Mints.</h2>
-    <div class="grid-2">
-        <div class="card">
-            <div class="label">SKU: Focus Mints</div>
-            <div style="font-size: 20px; font-weight: 700; color: var(--text); margin-top: 12px;">Hand-pressed focus tablets.</div>
-            <div style="font-size: 16px; color: var(--muted); margin-top: 8px;">Matcha 1.5g + Cacao 8–10g + Lion's Mane 500–1,000mg per mint. 20-count kraft pouch. $9 retail / $5 wholesale.</div>
-                <div style="margin-bottom: 12px;">• Hand-pressed mint tablets</div>
-                <div style="margin-bottom: 12px;">• Made in small batches in Toronto</div>
-                <div style="margin-bottom: 12px;">• No crash. No jitters. Just focus.</div>
-                <div style="margin-bottom: 12px;">• Clean ingredients, no additives</div>
+    <h2>One tin. 30 mints.<br>All day focus.</h2>
+    <div class="grid-2" style="margin-top: 40px;">
+        <div>
+            <div class="tin-label" style="max-width: 280px;">
+                <div class="tin-label name">Overclock</div>
+                <div class="espresso-bar"></div>
+                <div class="tin-label sub">FOCUS MINTS</div>
+                <div class="tin-label flavor">Chocolate Espresso</div>
+                <div class="tin-label count">30 pressed tablets &nbsp;|&nbsp; sugar-free &nbsp;|&nbsp; vegan</div>
+                <div class="tin-label count" style="margin-top: 4px;">~75mg caffeine &nbsp;|&nbsp; ~50mg L-theanine &nbsp;|&nbsp; 600mg lion's mane</div>
             </div>
-            <div class="price-tag">$9 retail | $5 wholesale</div>
+            <div class="tag-list" style="margin-top: 24px;">
+                <span class="tag-item">Hand-pressed</span>
+                <span class="tag-item">Flip-top tin</span>
+                <span class="tag-item">30-count</span>
+                <span class="tag-item">Sugar-free</span>
+                <span class="tag-item">Vegan</span>
+                <span class="tag-item">Gluten-free</span>
+            </div>
         </div>
         <div>
-            <h3>What's Inside</h3>
+            <h3>The Stack (per 1g tablet)</h3>
             <div class="stack-row">
-                <div class="ingredient">Matcha</div>
-                <div class="amount">1.5–2g</div>
-                <div class="effect">Natural caffeine + L-theanine + EGCG</div>
+                <div class="ingredient">Xylitol</div>
+                <div class="amount">60%</div>
+                <div class="effect">Sugar-free sweetener base</div>
             </div>
             <div class="stack-row">
-                <div class="ingredient">Cacao</div>
-                <div class="amount">8–10g</div>
-                <div class="effect">Cocoa flavanols, theobromine, natural B vitamins</div>
+                <div class="ingredient">Mannitol</div>
+                <div class="amount">10%</div>
+                <div class="effect">Sugar alcohol, clean taste</div>
+            </div>
+            <div class="stack-row">
+                <div class="ingredient">Dutch Cocoa</div>
+                <div class="amount">8%</div>
+                <div class="effect">Rich chocolate base, theobromine</div>
+            </div>
+            <div class="stack-row">
+                <div class="ingredient">Coffee Extract</div>
+                <div class="amount">3%</div>
+                <div class="effect">Natural caffeine source</div>
+            </div>
+            <div class="stack-row">
+                <div class="ingredient">Ceremonial Matcha</div>
+                <div class="amount">3%</div>
+                <div class="effect">L-theanine + gentle caffeine</div>
+            </div>
+            <div class="stack-row">
+                <div class="ingredient">Lion's Mane</div>
+                <div class="amount">2%</div>
+                <div class="effect">Dual-extract fruiting body</div>
+            </div>
+            <div class="stack-row">
+                <div class="ingredient">Vanilla</div>
+                <div class="amount">2%</div>
+                <div class="effect">Flavor carrier</div>
+            </div>
+            <div class="stack-row">
+                <div class="ingredient">Chocolate Flavor</div>
+                <div class="amount">1.5%</div>
+                <div class="effect">Natural flavor blend</div>
+            </div>
+            <div class="stack-row">
+                <div class="ingredient">Sea Salt</div>
+                <div class="amount">0.5%</div>
+                <div class="effect">Flavor amplification</div>
+            </div>
+            <div class="stack-row">
+                <div class="ingredient">Stevia Reb M</div>
+                <div class="amount">0.3%</div>
+                <div class="effect">Zero-calorie sweetener</div>
             </div>
             <div class="stack-row" style="border-bottom: none;">
-                <div class="ingredient">Lion's Mane</div>
-                <div class="amount">500–1,000mg</div>
-                <div class="effect">Fruiting body mushroom, culinary use</div>
+                <div class="ingredient">Calcium Stearate</div>
+                <div class="amount">1%</div>
+                <div class="effect">Tablet binding agent</div>
             </div>
         </div>
     </div>
-    <p style="margin-top: 32px;"><span class="green">Phase 2 (future):</span> Hacker's Trail (functional trail mix), Energy Square, Recovery Square — all built on the same base format.</p>
 </div>
 
-<!-- SLIDE 7: PRICING -->
+<!-- SLIDE 4: WHY IT WORKS -->
 <div class="slide">
-    <div class="tag">Unit Economics</div>
-    <h2>$4 wholesale.<br>$7 retail.<br><span class="green">75% margin at events.</span></h2>
+    <div class="tag">Why It Works</div>
+    <h2>Altoids logic.<br>Brain hack positioning.</h2>
     <div class="grid-3" style="margin-top: 48px;">
         <div class="card">
-            <div class="label">Cost to Make</div>
-            <div class="value">$1.32–$1.87</div>
-            <div class="desc">Per pouch, all-in at 200 units (hand-pressed mint format)</div>
+            <div class="label">Form factor</div>
+            <div style="font-size: 20px; font-weight: 700; color: var(--text); margin: 16px 0 12px;">Discreet</div>
+            <div class="desc">Tin goes in your pocket. Mint goes under your tongue at your desk. No drink. No powder. No wrapper. No friction.</div>
         </div>
         <div class="card">
-            <div class="label">Wholesale</div>
-            <div class="value">$5.00</div>
-            <div class="desc">Per 5-square pouch (50g)<br>For retailers and future distributors</div>
+            <div class="label">Dose logic</div>
+            <div style="font-size: 20px; font-weight: 700; color: var(--text); margin: 16px 0 12px;">Pace yourself</div>
+            <div class="desc">One mint ≈ 2.5mg natural caffeine. A tin of 30 = room to titrate. 2 mints = coffee equivalent. Half the jitter risk.</div>
         </div>
         <div class="card">
-            <div class="label">Retail</div>
-            <div class="value">$9.00</div>
-            <div class="desc">Per 5-square pouch (50g)<br>Events, farmers markets, D2C</div>
-        </div>
-    </div>
-    <div class="grid-3" style="margin-top: 24px;">
-        <div class="card">
-            <div class="label">Gross Margin (Event)</div>
-            <div class="value green">79–83%</div>
-            <div class="desc">Direct to consumer, no retailer</div>
+            <div class="label">Flavor</div>
+            <div style="font-size: 20px; font-weight: 700; color: var(--text); margin: 16px 0 12px;">Chocolate-espresso</div>
+            <div class="desc">Dark, grown-up. Not a candy. Not a supplement. A tin you'd leave on your desk — it belongs there.</div>
         </div>
         <div class="card">
-            <div class="label">Gross Margin (Wholesale)</div>
-            <div class="value green">62–74%</div>
-            <div class="desc">At $5 wholesale / $9 retail</div>
+            <div class="label">Audience</div>
+            <div style="font-size: 20px; font-weight: 700; color: var(--text); margin: 16px 0 12px;">Builder-native</div>
+            <div class="desc">The person who needs focus is the same person using Linear, Raycast, Arc. They don't want a gummy. They want a tool.</div>
         </div>
         <div class="card">
-            <div class="label">Profit per Event Day</div>
-            <div class="value green">$450–$900</div>
-            <div class="desc">Selling 50–100 pouches at a weekend market</div>
+            <div class="label">Aesthetic</div>
+            <div style="font-size: 20px; font-weight: 700; color: var(--text); margin: 16px 0 12px;">Dark / espresso</div>
+            <div class="desc">Browns, blacks, matte. Not green mint. Not a supplement brand. Overclock looks like it belongs in a dev setup.</div>
+        </div>
+        <div class="card">
+            <div class="label">Regulatory</div>
+            <div style="font-size: 20px; font-weight: 700; color: var(--text); margin: 16px 0 12px;">Food track</div>
+            <div class="desc">Conventional food — like Tic Tac. No NPN. No Supplemented Foods compliance. Just EN/FR Nutrition Facts label.</div>
         </div>
     </div>
 </div>
 
-<!-- SLIDE 8: CHANNEL -->
+<!-- SLIDE 5: UNIT ECONOMICS -->
 <div class="slide">
-    <div class="tag">Distribution</div>
-    <h2>Events first.<br>The circuit is wide open.</h2>
-    <div class="grid-2">
+    <div class="tag">Unit Economics</div>
+    <h2>$6–8 wholesale.<br>$10–14 retail.<br><span class="green">~60% margin.</span></h2>
+    <div class="grid-2" style="margin-top: 48px;">
         <div>
-            <h3>Where we sell (Year 1)</h3>
-            <ul class="check-list">
-                <li><strong>Superteam Canada events</strong> — your network, your foot in the door. Crypto-native, high-intent.</li>
-                <li><strong>Solana/Web3 meetups</strong> — developers, builders, degens. Perfect fit.</li>
-                <li><strong>Farmers markets</strong> — Kensington, St. Lawrence, Stackt. Community feedback loop.</li>
-                <li><strong>NXTD and local festivals</strong> — volume play, sampling + direct sales.</li>
-            </ul>
+            <div class="card" style="margin-bottom: 16px;">
+                <div class="label">All-in cost (200 tins)</div>
+                <div class="value">$4.20–4.40</div>
+                <div class="desc">Per tin, fully loaded — ingredients + packaging + labor</div>
+            </div>
+            <div class="card" style="margin-bottom: 16px;">
+                <div class="label">Marginal cost (incremental)</div>
+                <div class="value">$2.25</div>
+                <div class="desc">Per additional tin after first 200 (ingredients + packaging only)</div>
+            </div>
+            <div class="card">
+                <div class="label">Retail price</div>
+                <div class="value">$10–14</div>
+                <div class="desc">MSRP per 30-tablet tin &nbsp;|&nbsp; events / D2C</div>
+            </div>
         </div>
         <div>
-            <h3>Phase 2 (Year 2)</h3>
-            <ul class="check-list">
-                <li><strong>Partner with drink brand</strong> — bundle Overclock mints with energy drinks at events. Complementary, not competitive.</li>
-                <li><strong>Online D2C</strong> — Shopify, Stripe, Instagram. Direct to builder.</li>
-                <li><strong>Gaming cafes / esports lounges</strong> — where the audience already is.</li>
-                <li><strong>Specialty retailers</strong> — supplement shops that get it, not big box.</li>
-            </ul>
-        </div>
-    </div>
-    <div class="partner-box" style="margin-top: 40px;">
-        <div class="title">Bundle Opportunity</div>
-        <div class="desc">Drink brand + Overclock = "The Focus Bundle." Sell at events together.<br>Different categories, same person, same moment. No conflict, pure synergy.</div>
-    </div>
-</div>
-
-<!-- SLIDE 9: TIMELINE -->
-<div class="slide">
-    <div class="tag">Roadmap</div>
-    <h2>6 weeks to first sale.<br>Lean and fast.</h2>
-    <div class="timeline">
-        <div class="timeline-item">
-            <div class="phase">Week 1–2</div>
-            <div class="title">Lock Name + Incorporate</div>
-            <div class="time">Register Overclock.co, CIPO search, file incorporation</div>
-            <div class="cost">$300–$400</div>
-        </div>
-        <div class="timeline-item">
-            <div class="phase">Week 2–3</div>
-            <div class="title">Source + Equipment</div>
-            <div class="time">Buy Callebaut chocolate (Costco), matcha (Bulk Barn), lion's mane (Lemon Lily). Buy silicone mold, scale, sealer.</div>
-            <div class="cost">$150–$300</div>
-        </div>
-        <div class="timeline-item">
-            <div class="phase">Week 3–4</div>
-            <div class="title">First Test Batch</div>
-            <div class="time">Make 50 chocolate squares (1 batch). Test with friends at meetup.</div>
-            <div class="cost">$50–$100</div>
-        </div>
-        <div class="timeline-item">
-            <div class="phase">Week 4–5</div>
-            <div class="title">Label + Packaging</div>
-            <div class="time">Design label on Canva. Print on sticker paper. Source kraft pouches.</div>
-            <div class="cost">$100–$150</div>
-        </div>
-        <div class="timeline-item">
-            <div class="phase">Week 5–6</div>
-            <div class="title">First Event</div>
-            <div class="time">Sell at a Superteam or Solana meetup. Get feedback.</div>
-            <div class="cost">$0–$50 (table fee)</div>
-        </div>
-    </div>
-    <p style="margin-top: 32px; font-size: 20px;">Total to first sale: <span class="green">$600–$950</span>. Budget left for first real production run.</p>
-</div>
-
-<!-- SLIDE 10: BUDGET -->
-<div class="slide">
-    <div class="tag">Budget — $1,250 to $1,725</div>
-    <h2>Lean launch.<br>Nothing wasted.</h2>
-    <div class="grid-2">
-        <div>
-            <div style="margin-bottom: 28px;">
-                <div style="font-size: 16px; color: var(--muted); margin-bottom: 4px;">Incorporation + CIPO search</div>
-                <div style="font-size: 24px; font-weight: 700;">$300–$450</div>
+            <div class="card" style="margin-bottom: 16px;">
+                <div class="label">Wholesale price</div>
+                <div class="value">$6–8</div>
+                <div class="desc">Per tin to retailers &nbsp;|&nbsp; 50–57% margin for us</div>
             </div>
-            <div style="margin-bottom: 28px;">
-                <div style="font-size: 16px; color: var(--muted); margin-bottom: 4px;">Domain + Logo design</div>
-                <div style="font-size: 24px; font-weight: 700;">$50–$100</div>
+            <div class="card" style="margin-bottom: 16px;">
+                <div class="label">Event margin</div>
+                <div class="value" style="color: var(--green);">~70%</div>
+                <div class="desc">Selling direct at $10–14 with ~$4 cost</div>
             </div>
-            <div style="margin-bottom: 28px;">
-                <div style="font-size: 16px; color: var(--muted); margin-bottom: 4px;">Ingredients (Costco + Bulk Barn + Lemon Lily)</div>
-                <div style="font-size: 24px; font-weight: 700;">$200–$275</div>
-            </div>
-            <div style="margin-bottom: 28px;">
-                <div style="font-size: 16px; color: var(--muted); margin-bottom: 4px;">Equipment (mold, scale, sealer)</div>
-                <div style="font-size: 24px; font-weight: 700;">$150–$300</div>
-            </div>
-            <div style="margin-bottom: 28px;">
-                <div style="font-size: 16px; color: var(--muted); margin-bottom: 4px;">Labels + Packaging (200 pouches)</div>
-                <div style="font-size: 24px; font-weight: 700;">$150–$200</div>
-            </div>
-            <div style="margin-bottom: 28px;">
-                <div style="font-size: 16px; color: var(--muted); margin-bottom: 4px;">Food handler cert + contingency</div>
-                <div style="font-size: 24px; font-weight: 700;">$250–$400</div>
-            </div>
-        </div>
-        <div style="display: flex; align-items: center; justify-content: center;">
-            <div style="text-align: center;">
-                <div class="big-number">$1.25–1.7K</div>
-                <div style="font-size: 20px; color: var(--muted); margin-top: 16px;">Total budget</div>
-                <div style="font-size: 16px; color: var(--green); margin-top: 8px;">To first 200 pouches</div>
-                <div style="margin-top: 32px; padding: 24px; background: var(--surface); border: 1px solid var(--border); border-radius: 12px;">
-                    <div style="font-size: 16px; color: var(--muted); margin-bottom: 8px;">After first event weekend</div>
-                    <div style="font-size: 22px; font-weight: 700; color: var(--accent-light);">$450–$900 revenue</div>
-                    <div style="font-size: 16px; color: var(--muted); margin-top: 4px;">Reinvest in batch 2</div>
-                </div>
+            <div class="card">
+                <div class="label">200-tin breakeven</div>
+                <div class="value">$840–880</div>
+                <div class="desc">Total production cost for 200 tins &nbsp;|&nbsp; sell 65–70 at events to cover</div>
             </div>
         </div>
     </div>
 </div>
 
-<!-- SLIDE 11: CO-MANUFACTURER (Phase 2) -->
+<!-- SLIDE 6: MARKET -->
 <div class="slide">
-    <div class="tag">Scaling (Phase 2)</div>
-    <h2>DIY until it works.<br>Then outsource.</h2>
-    <div class="grid-2">
+    <div class="tag">Market Opportunity</div>
+    <h2>Brain mints:<br>$407M → $722M<br>in 10 years.</h2>
+    <div class="grid-2" style="margin-top: 48px;">
         <div>
-            <h3>Why DIY first</h3>
-            <ul class="check-list">
-                <li>$1,500 budget doesn't cover co-manufacturer setup fees (typically $500–$1,000 setup + MOQ minimums)</li>
-                <li>Test the product with real people before committing to 500 units of something nobody wants</li>
-                <li>Full control over formulation iteration — change the recipe based on feedback fast</li>
-                <li>Learn the process. Be the expert. Then bring someone in.</li>
-            </ul>
+            <div class="card-accent" style="margin-bottom: 16px;">
+                <div class="label">Brain Mint Segment</div>
+                <div class="value-lg" style="margin: 16px 0 8px;">$407M</div>
+                <div style="font-size: 14px; color: var(--muted);">2026 — Today</div>
+            </div>
+            <div class="card">
+                <div class="label">10-Year Projection</div>
+                <div class="value-lg" style="color: var(--green); margin: 16px 0 8px;">$722M</div>
+                <div style="font-size: 14px; color: var(--muted);">2036 — +77%</div>
+            </div>
         </div>
         <div>
-            <h3>Phase 2: Co-Manufacturer</h3>
-            <ul class="check-list">
-                <li><strong>Rootree (Burlington, ON)</strong> — co-packer for trail mix / pre-made fillings. Good for Hacker's Trail format.</li>
-                <li><strong>Hownature (Markham, ON)</strong> — mint/capsule. Worth a call for Phase 2 mint pivot post-validation.</li>
-                <li><strong>Herbaland (Richmond, BC)</strong> — Canada's largest mint mfg. MOQ 5,000–10,000. Phase 3 scale.</li>
-            </ul>
+            <div class="card" style="margin-bottom: 16px;">
+                <div class="label">Functional Mints CAGR</div>
+                <div style="font-size: 36px; font-weight: 800; color: var(--accent-light); margin: 16px 0 8px;">~6%</div>
+                <div class="desc">Steady double-digit growth driven by focus economy, gaming, and clean-label demand</div>
+            </div>
+            <div class="card">
+                <div class="label">Canada whitespace</div>
+                <div style="font-size: 18px; font-weight: 700; color: var(--text); margin: 16px 0 8px;">No one owns this.</div>
+                <div class="desc">Neuro Mints and Awak'n are US-only. Viter is US. Run Gum is US. No Canadian brain mint brand. No Web3-builder focused functional food brand in Canada, period.</div>
+            </div>
         </div>
     </div>
-    <p style="margin-top: 40px;">Co-manufacturer triggered when: 100+ units sold, formula locked, $5,000+ available for production run.</p>
 </div>
 
-<!-- SLIDE 12: RISKS -->
+<!-- SLIDE 7: COMPETITION -->
 <div class="slide">
-    <div class="tag">Risks</div>
-    <h2>Honest assessment.</h2>
+    <div class="tag">Competitive Landscape</div>
+    <h2>No one is doing<br>this in Canada.</h2>
     <div class="grid-2" style="margin-top: 40px;">
         <div>
-            <div class="card" style="margin-bottom: 20px;">
-                <div class="label">Regulatory</div>
-                <div style="font-size: 18px; margin-top: 8px; color: var(--muted);">Plain food track — no NPN needed. Natural caffeine from matcha/cacao only. No added isolates (L-theanine, caffeine anhydrous, B6). No focus/cognition claims on label. Bilingual EN/FR required. New front-of-pack symbol (Jan 2026) — plan for it.</div>
+            <h3 style="color: var(--accent-light);">Direct competitors</h3>
+            <div class="comp-grid">
+                <div class="comp-name direct">Neuro Mints</div>
+                <div class="comp-name direct">Awak'n</div>
+                <div class="comp-name direct">Run Gum</div>
+                <div class="comp-name direct">Viter</div>
             </div>
-            <div class="card" style="margin-bottom: 20px;">
-                <div class="label">Scale</div>
-                <div style="font-size: 18px; margin-top: 8px; color: var(--muted);">DIY works for 200 units. At 500+, you need a co-manufacturer. Real Canadian mint co-man minimums: 1,000–5,000 units at $6K–$15K minimum. Chocolate format stays DIY-friendly longer.</div>
-            </div>
+            <p style="font-size: 14px; color: var(--muted); margin-top: 12px;">All US-based. None in Canada. None targeting Web3/coder audience.</p>
         </div>
         <div>
-            <div class="card" style="margin-bottom: 20px;">
-                <div class="label">Taste</div>
-                <div style="font-size: 18px; margin-top: 8px; color: var(--muted);">Matcha and lion's mane can be gritty if not properly ground. Test on real people first. First batch might need recipe iteration — that's normal.</div>
+            <h3 style="color: var(--muted);">Adjacent / Functional</h3>
+            <div class="comp-grid">
+                <div class="comp-name">Magic Mind</div>
+                <div class="comp-name">Alice Mushrooms</div>
+                <div class="comp-name">MOSH</div>
+                <div class="comp-name">Forij</div>
+                <div class="comp-name">GamerSupps</div>
+                <div class="comp-name">GFuel</div>
             </div>
-            <div class="card" style="margin-bottom: 20px;">
-                <div class="label">Competition</div>
-                <div style="font-size: 18px; margin-top: 8px; color: var(--muted);">Alice Mushrooms (NYC) is the closest competitor in dark chocolate format. No one owns this in Canada. Channel (Solana/Superteam events) is the moat.</div>
-            </div>
+            <p style="font-size: 14px; color: var(--muted); margin-top: 12px;">RTDs, mushroom coffees, gamer powders — different format, overlapping audience.</p>
         </div>
+    </div>
+    <div class="card-accent" style="margin-top: 32px;">
+        <div style="font-size: 18px; font-weight: 700; color: var(--text); margin-bottom: 8px;"><span class="green-check">✓</span>Whitespace confirmed</div>
+        <div style="font-size: 15px; color: var(--muted);">Only chocolate-espresso pressed mint in Canada. Only Canadian brand built for the Web3-builder persona. First mover in a growing, uncrowded segment.</div>
     </div>
 </div>
 
-<!-- SLIDE 13: PARTNERSHIP -->
+<!-- SLIDE 8: PRODUCTION -->
 <div class="slide">
-    <div class="tag">The Drink Partnership</div>
-    <h2>Complementary, not competitive.<br>Build the stack.</h2>
-    <div class="grid-2">
-        <div>
-            <h3>Why this works</h3>
-            <ul class="check-list">
-                <li>Your friend's drink brand covers the hydration/energy angle. Overclock covers the snack/focus angle.</li>
-                <li>Same person, same flow state moment, two different products. Natural bundle.</li>
-                <li>"The Focus Bundle" — drink + mints, sold together at events. Higher AOV.</li>
-                <li>No conflict. No overlap. Pure synergy for the same audience.</li>
-            </ul>
-        </div>
-        <div>
-            <div class="card" style="background: var(--surface); border: 1px solid var(--accent); padding: 40px; text-align: center;">
-                <div class="label">The Pitch</div>
-                <div style="font-size: 24px; font-weight: 700; margin-top: 16px; line-height: 1.4;">
-                    "Your drink + my mints<br>= focus bundle."
-                </div>
-                <div style="font-size: 16px; color: var(--muted); margin-top: 16px;">
-                    50/50 revenue split on the bundle at events.<br>Cross-promote on socials.<br>Share the booth cost.
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
-<!-- SLIDE 14: RECOMMENDATION -->
-<div class="slide">
-    <div class="tag">Action Plan</div>
-    <h2>Go. Here's the sequence.</h2>
-    <div class="timeline">
-        <div class="timeline-item">
-            <div class="phase">Week 1</div>
-            <div class="title">Lock Name<br>Incorporate</div>
-            <div class="cost">$300–$400</div>
-        </div>
-        <div class="timeline-item">
-            <div class="phase">Week 2</div>
-            <div class="title">Source Ingredients<br>Buy Mold</div>
-            <div class="cost">$150–$200</div>
-        </div>
-        <div class="timeline-item">
-            <div class="phase">Week 3–4</div>
-            <div class="title">Test Batch<br>Feedback Loop</div>
-            <div class="cost">$50–$100</div>
-        </div>
-        <div class="timeline-item">
-            <div class="phase">Week 5–6</div>
-            <div class="title">Label + Package<br>First Event</div>
-            <div class="cost">$150–$250</div>
-        </div>
-    </div>
-    <p style="margin-top: 40px; font-size: 22px;">First sale in 6 weeks. Budget: <span class="green">$1,250–$1,725</span>. Revenue reinvest loop starts immediately.</p>
-    <p style="margin-top: 16px; font-size: 18px; color: var(--muted);">Phase 2 (co-manufacturer) triggered when: 100 units sold, formula locked, $5,000+ available for run.</p>
-</div>
-
-<!-- SLIDE 15: APPENDIX -->
-<div class="slide">
-    <div class="tag">Appendix</div>
-    <h2>Ingredients + Notes</h2>
+    <div class="tag">Production</div>
+    <h2>DIY at home.<br>Phase 2: co-manufacturer.</h2>
     <div class="grid-2" style="margin-top: 40px;">
         <div>
-            <h3 style="margin-bottom: 16px; color: var(--text);">Focus Stack — Ingredient List</h3>
-            <div class="stack-row">
-                <div class="ingredient">Matcha</div>
-                <div class="amount">1.5–2g per square</div>
+            <h3>Phase 1 — DIY (Weeks 1–4)</h3>
+            <div class="card" style="margin-bottom: 16px;">
+                <div class="label">Legal basis</div>
+                <div style="font-size: 16px; font-weight: 600; color: var(--text); margin: 8px 0 4px;">Ontario O. Reg. 493/17</div>
+                <div class="desc">Low-risk food exemption. No commercial kitchen required for home production of conventional foods.</div>
             </div>
-            <div class="stack-row">
-                <div class="ingredient">Cacao (70%+)</div>
-                <div class="amount">8–10g per square</div>
+            <div class="card" style="margin-bottom: 16px;">
+                <div class="label">Equipment</div>
+                <div class="desc">TDP-0 tablet press + 10mm round dies. Hand-press at home. ~$400–600 all-in with dies.</div>
             </div>
-            <div class="stack-row" style="border-bottom: none;">
-                <div class="ingredient">Lion's Mane</div>
-                <div class="amount">500–1,000mg per square</div>
+            <div class="card">
+                <div class="label">Food handler cert</div>
+                <div class="desc">~$50. Toronto public health. One afternoon.</div>
             </div>
         </div>
         <div>
-            <h3 style="margin-bottom: 16px; color: var(--text);">Sourcing</h3>
-            <ul class="check-list" style="font-size: 18px;">
-                <li>Matcha: Bulk Barn or Jade Leaf. Lion's mane: Lemon Lily Tea (Canada). Cacao: Costco.</li>
-                <li>Mold + scale + sealer: Amazon CA (~$100 all-in)</li>
-                <li>Pouches: Amazon CA kraft stand-up pouches</li>
-            </ul>
+            <h3>Phase 2 — Co-Manufacturer (Year 2)</h3>
+            <div class="card">
+                <div class="label">Contacts identified</div>
+                <ul class="check-list" style="margin-top: 8px; font-size: 14px;">
+                    <li><strong>Rootree</strong> — Burlington, ON. Trail mix / pressed tablets.</li>
+                    <li><strong>Hownature</strong> — Markham, ON. Capsules + pressed tablets.</li>
+                    <li><strong>Herbaland</strong> — Richmond, BC. Canada's largest gummy/tablet mfr. MOQ 5,000–10,000.</li>
+                </ul>
+                <div class="desc" style="margin-top: 12px;">Phase 2 triggers when: 500+ tins/week demand, retail LOI in hand, or equity seed round closed.</div>
+            </div>
         </div>
     </div>
-    <p style="margin-top: 40px; font-size: 14px; color: var(--muted);">Regulatory note: Plain food track, no NPN. Natural caffeine only (matcha + cacao). No added isolates. No focus/cognition claims. Bilingual EN/FR label required. This document is for internal planning only — not an investor document.</p>
+</div>
+
+<!-- SLIDE 9: REGULATORY -->
+<div class="slide">
+    <div class="tag">Regulatory</div>
+    <h2>Conventional food.<br>Same track as Tic Tac.</h2>
+    <div class="grid-2" style="margin-top: 48px;">
+        <div>
+            <ul class="check-list">
+                <li><strong>No NPN required</strong> — not a natural health product. No isolated caffeine, L-theanine, or vitamin compounds.</li>
+                <li><strong>No Supplemented Foods compliance</strong> — no mandatory Front-of-Pack symbol (Jan 2026 update checked — ingredient levels below threshold).</li>
+                <li><strong>No NIN (notification) needed</strong> — conventional food, not a supplement.</li>
+                <li><strong>Bilingual Nutrition Facts label</strong> — standard CFIA requirement.</li>
+                <li><strong>All ingredients are food ingredients</strong> — xylitol, mannitol, cocoa, coffee extract, matcha, lion's mane (culinary), vanilla, salt, stevia. No isolates requiring authorization.</li>
+            </ul>
+        </div>
+        <div>
+            <div class="card" style="margin-bottom: 16px;">
+                <div class="label">Messaging rule</div>
+                <div style="font-size: 16px; color: var(--text); margin-top: 8px; line-height: 1.7;">
+                    Describe ingredients. Never claim effects.<br><br>
+                    <span style="color: var(--accent);">Never say:</span><br>
+                    "focus" · "cognition" · "flow state" · "nootropic" · "brain boost" · "mental performance"
+                </div>
+            </div>
+            <div class="card-accent">
+                <div class="label">Accurate language</div>
+                <div style="font-size: 15px; color: var(--text); margin-top: 8px; line-height: 1.7;">
+                    "Pressed mint tablets with matcha, cacao, and lion's mane."<br><br>
+                    "Contains natural caffeine from coffee and matcha."<br><br>
+                    "Sugar-free. Vegan. Gluten-free."
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- SLIDE 10: TIMELINE -->
+<div class="slide">
+    <div class="tag">Timeline</div>
+    <h2>4 to 8 weeks.<br>First sale.</h2>
+    <div style="margin-top: 48px; max-width: 720px;">
+        <div class="timeline-row">
+            <div class="week">W1</div>
+            <div>
+                <div class="week-title">Prototype + Ingredients</div>
+                <div class="week-desc">Source xylitol, mannitol, Dutch cocoa, coffee extract, ceremonial matcha, lion's mane dual-extract, vanilla, chocolate flavor, stevia. Buy TDP-0 press + dies. Make first 20 tablets.</div>
+                <div class="cost">Budget: $400–600 equipment + $100 ingredients</div>
+            </div>
+        </div>
+        <div class="timeline-row">
+            <div class="week">W2</div>
+            <div>
+                <div class="week-title">Artwork + Food Handler Cert</div>
+                <div class="week-desc">Design tin label (Canva / Figma). Apply for food handler certification ($50). Finalize EN/FR Nutrition Facts table. Print labels.</div>
+                <div class="cost">Budget: $100 labels + $50 cert</div>
+            </div>
+        </div>
+        <div class="timeline-row">
+            <div class="week">W3</div>
+            <div>
+                <div class="week-title">100 tins — Soft Launch</div>
+                <div class="week-desc">Produce 100 tins at home. Package with bilingual labels. Test with friends, Discord community, Twitter/X followers. Gather feedback. Adjust flavor or dose if needed.</div>
+                <div class="cost">~$350 ingredients + packaging</div>
+            </div>
+        </div>
+        <div class="timeline-row">
+            <div class="week">W4–8</div>
+            <div>
+                <div class="week-title">200+ tins — Superteam Canada / Toronto Solana event</div>
+                <div class="week-desc">First public sale. Get the product in front of the exact audience: Web3 builders, Solana community, Toronto tech. Capture photos, testimonials, pre-orders for batch 2.</div>
+                <div class="cost">200 tins = ~$840 total production cost. Reinvest loop starts.</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- SLIDE 11: BUDGET -->
+<div class="slide">
+    <div class="tag">Budget</div>
+    <h2>$1,400–1,800<br>to first sale.</h2>
+    <div class="grid-2" style="margin-top: 48px;">
+        <div>
+            <div class="card" style="margin-bottom: 16px;">
+                <div class="label">Ingredients + Packaging</div>
+                <div class="budget-val">$450</div>
+                <div class="desc">Matcha, cocoa, coffee extract, lion's mane, xylitol, mannitol, vanilla, flavors, stevia. Kraft tins (30-ct). Labels. Heat-seal film.</div>
+            </div>
+            <div class="card" style="margin-bottom: 16px;">
+                <div class="label">Tablet Press + Dies</div>
+                <div class="budget-val">$400–600</div>
+                <div class="desc">TDP-0 hand press + 10mm round dies. One-time purchase. Reusable indefinitely.</div>
+            </div>
+            <div class="card">
+                <div class="label">Contingency</div>
+                <div class="budget-val">$200</div>
+                <div class="desc">Buffer for unexpected — extra ingredients, packaging adjustments, shipping.</div>
+            </div>
+        </div>
+        <div>
+            <div class="card" style="margin-bottom: 16px;">
+                <div class="label">Labels + Artwork</div>
+                <div class="budget-val">$100</div>
+                <div class="desc">Bilingual Nutrition Facts + tin label design. Canva or Figma. Print via Cat Printed or locally in Toronto.</div>
+            </div>
+            <div class="card" style="margin-bottom: 16px;">
+                <div class="label">Food Handler Cert</div>
+                <div class="budget-val">$50</div>
+                <div class="desc">Toronto Public Health food handler certification. One afternoon, ~$50.</div>
+            </div>
+            <div class="card" style="margin-bottom: 16px;">
+                <div class="label">Insurance</div>
+                <div class="budget-val">$400–600</div>
+                <div class="desc">Product liability + commercial general liability for home food production. Required for any retail or event selling.</div>
+            </div>
+            <div class="card-accent">
+                <div class="label">Total</div>
+                <div class="value-lg">$1,400–1,800</div>
+                <div class="desc">Breakeven: sell 100 tins at $10–14. Revenue loop starts week 4.</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- SLIDE 12: PARTNERSHIPS -->
+<div class="slide">
+    <div class="tag">Partnership Angle</div>
+    <h2>The bundle play.<br>Same person, two products.</h2>
+    <div class="grid-2" style="margin-top: 48px;">
+        <div>
+            <p style="font-size: 18px; color: var(--text); margin-bottom: 24px;">Overclock mints + an energy/hydration drink = complete focus stack. Different categories. Same moment. No conflict.</p>
+            <ul class="check-list" style="font-size: 16px;">
+                <li>Drink brand covers hydration + acute energy. Overclock covers the discrete, desk-ready mint that doesn't require a can.</li>
+                <li>Natural bundle at events — co-brand the tin label, split the booth, 50/50 revenue on the bundle.</li>
+                <li>Cross-promote on socials. Share booth cost. Double the product story.</li>
+                <li>Canada-first: Viter, Run Gum, Neuro Mints aren't here. A Canadian bundle partner has no US competition to lose to.</li>
+            </ul>
+        </div>
+        <div class="card-accent" style="text-align: center; padding: 48px;">
+            <div class="label" style="text-align: center;">The pitch</div>
+            <div style="font-size: 28px; font-weight: 800; color: var(--text); margin-top: 20px; line-height: 1.4;">
+                "Your drink + my mint<br>= complete focus stack."
+            </div>
+            <div class="desc" style="margin-top: 20px; text-align: center;">
+                50/50 revenue split on bundle at events.<br>
+                Cross-promote on socials.<br>
+                Share the booth cost.
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- SLIDE 13: BRAND VOICE -->
+<div class="slide">
+    <div class="tag">Brand</div>
+    <h2>Ledger. Arc.<br>Linear. Raycast.</h2>
+    <div class="grid-2" style="margin-top: 48px;">
+        <div>
+            <p style="font-size: 18px; color: var(--text); margin-bottom: 24px;">The aesthetic of the tools builders actually use. Dark UI. High signal. No noise.</p>
+            <ul class="check-list" style="font-size: 16px;">
+                <li><strong>Color:</strong> Dark espresso browns, near-black backgrounds, matte surfaces. Amber accents. Never green mint. Never wellness spa.</li>
+                <li><strong>Type:</strong> Clean sans-serif. Monospace for specs and data. No rounded bubbly fonts.</li>
+                <li><strong>Photography:</strong> Espresso tones. Dark surfaces. Tin on a mechanical keyboard. Tin on a desk setup. Real, not stock.</li>
+                <li><strong>Copy:</strong> Short. Direct. Like a terminal. No fluff, no "supercharge your brain."</li>
+            </ul>
+        </div>
+        <div>
+            <div class="card" style="margin-bottom: 16px;">
+                <div class="label">Tone of voice</div>
+                <div style="font-size: 16px; color: var(--text); margin-top: 8px; line-height: 1.8;">
+                    "30 pressed tablets. Chocolate-espresso. Sugar-free."<br><br>
+                    "Overclock."<br><br>
+                    "One mint. Then build."
+                </div>
+            </div>
+            <div class="card">
+                <div class="label">What we're not</div>
+                <div class="desc" style="margin-top: 8px; line-height: 1.8;">
+                    Not a supplement brand. Not a wellness brand. Not a gamer brand (no neon, no slang). We're a tool. The tin goes next to your keyboard, not in your supplement drawer.
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- SLIDE 14: THE ASK -->
+<div class="slide" style="text-align: center;">
+    <div class="tag">The Ask</div>
+    <h2 style="font-size: 64px;">$1,400–1,800.</h2>
+    <p style="font-size: 22px; color: var(--text); max-width: 560px; margin: 24px auto 0;">First 200 tins. Food handler cert. TDP-0 press. Insurance. Labels. Revenue reinvest loop starts week 4.</p>
+    <div class="espresso-bar" style="max-width: 200px; margin: 40px auto;"></div>
+    <div style="display: flex; gap: 24px; justify-content: center; flex-wrap: wrap; margin-top: 40px;">
+        <div class="card" style="min-width: 180px; text-align: center;">
+            <div class="label" style="text-align: center;">Week 1</div>
+            <div style="font-size: 16px; font-weight: 700; color: var(--text); margin-top: 8px;">Prototype</div>
+        </div>
+        <div class="card" style="min-width: 180px; text-align: center;">
+            <div class="label" style="text-align: center;">Week 3</div>
+            <div style="font-size: 16px; font-weight: 700; color: var(--text); margin-top: 8px;">100 tins</div>
+        </div>
+        <div class="card" style="min-width: 180px; text-align: center;">
+            <div class="label" style="text-align: center;">Week 4</div>
+            <div style="font-size: 16px; font-weight: 700; color: var(--text); margin-top: 8px;">First event</div>
+        </div>
+        <div class="card" style="min-width: 180px; text-align: center;">
+            <div class="label" style="text-align: center;">Week 8</div>
+            <div style="font-size: 16px; font-weight: 700; color: var(--text); margin-top: 8px;">200+ tins</div>
+        </div>
+    </div>
+    <p style="margin-top: 48px; font-size: 18px; color: var(--muted);">overclock.co &nbsp;|&nbsp; @overclockco &nbsp;|&nbsp; Toronto, 2026</p>
 </div>
 
 </body>
