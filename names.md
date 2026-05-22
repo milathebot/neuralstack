@@ -13,9 +13,13 @@ A pad is where you work (your desk, your setup, your workspace). A munch is what
 
 ## Tagline Options
 
-1. **Find your focus. Stay there.** — The primary tagline. Flow-state framing, works any time of day.
-2. **Snack. Stack. Ship.** — Three words, three coding verbs. Clean cadence.
-3. **Pad your focus.** — Plays on workspace + padding (comfort, support). A bit more subtle.
+1. **Find your focus. Stay there.** — Primary tagline. Flow-state framing, works any time of day.
+2. **Focus, pressed.** — Double meaning: pressed under deadline + pressed mints. Clean and ownable.
+3. **Hand-pressed for builders.** — Small-batch craft framing, Toronto-made.
+4. **Pressed in Toronto. Made for builders.** — Local pride + audience specificity.
+5. **Compile, ship, repeat. (Snack accordingly.)** — Coder-native humor, works deck vibe.
+
+All options anchor on "pressed" or "hand-pressed" — not "cold-pressed."
 
 ---
 

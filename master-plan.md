@@ -5,9 +5,9 @@
 
 ## WHAT WE'RE BUILDING
 
-Overclock is a nootropic gummy brand targeting gamers, coders, and Web3 builders in Canada. One SKU. One niche. One shot at owning the focus moment.
+Overclock is a nootropic mint brand targeting gamers, coders, and Web3 builders in Canada. One SKU. One niche. One shot at owning the focus moment.
 
-**Product:** Focus gummy — Lion's Mane + L-Theanine + Caffeine + B6, 20-count pouch
+**Product:** Focus Mints — Matcha + Cacao + Lion's Mane, hand-pressed mint tablets, 20-count kraft pouch
 **Price:** $4 wholesale / $7 retail
 **Margin:** 85–88% at events, 70–80% wholesale
 **Budget to first sale:** $1,500–$2,000
@@ -24,7 +24,7 @@ MVP pitch deck is done. Messaging is locked. Brand is named. The product concept
 - Registered a domain
 - Filed incorporation
 - Sourced ingredients
-- Made a single gummy
+- Made a single mint
 - Sold anything
 
 This is a pre-launch project. Everything below is what needs to happen to get to first revenue.
@@ -73,41 +73,39 @@ This is a pre-launch project. Everything below is what needs to happen to get to
 **Goal: Have a physical product to test.**
 
 #### 2.1 — Source Ingredients
-- [ ] Source the following from Nutri.ca, Amazon, or Direct Nutrition Supply:
-  - Lion's Mane extract 250mg
-  - L-Theanine 100mg
-  - Caffeine powder (natural, 50mg/serving)
-  - Vitamin B6
-  - Gelatin or agar powder (for gummy base)
-  - Berry flavoring (natural or artificial)
-  - Sugar or sugar substitute (optional)
-- Est. cost: ~$40–$60 for a 100-serving run
+- [ ] Source the following from Bulk Barn, Costco, or specialtyIngredient shops:
+  - Matcha powder (culinary grade, 1.5–2g per serving)
+  - Cacao powder or nibs (70%+ for flavor + theobromine, 8–10g per serving)
+  - Lion's Mane fruiting body powder (500–1,000mg per serving)
+  - Mint base: gelatin or agar for pressed tablets
+  - Natural sweeteners (optional: honey, monk fruit)
+  - Natural mint flavoring
+- Est. cost: ~$40–$60 for a 200-serving run
 
-#### 2.2 — Buy Gummy Mold
-- [ ] Buy a silicone gummy mold on Amazon (one-time purchase)
-  - Look for: 20-cavity mold (matches 20-serving pouch)
-  - Est. cost: $30–$60
-- Tip: Search "silicone gummy mold" or "candy making mold" on Amazon CA
+#### 2.2 — Buy Tablet Press Mold
+- [ ] Buy a TDP-0 tablet press mold on Amazon (one-time purchase, ~$30–$60)
+  - Look for: 10–15mm round shallow molds, 20-cavity (matches 20-serving pouch)
+  - This is what we use for hand-pressing — not cold-compressed, just standard mechanical compression
+- Tip: Search "TDP-0 mold" or "tablet press mold" on Amazon CA
 
-#### 2.3 — First Test Batch (DIY)
-- [ ] Make 20–50 gummies at home following a basic gummy recipe:
-  1. Bloom gelatin in cold water
-  2. Heat gently, add sweetener and flavor
-  3. Add pre-mixed powdered ingredients
-  4. Pour into mold
-  5. Refrigerate for 2–3 hours
-  6. Remove from mold, let dry overnight
-- [ ] Package in small ziplock bags or trial pouches
+#### 2.3 — First Test Batch (DIY Hand-Press)
+- [ ] Make 20–50 hand-pressed mint tablets at home:
+  1. Mix matcha + cacao + lion's mane into a dry base powder
+  2. Add mint flavor + sweetener (optional)
+  3. Press into tablets using TDP-0 hand press or silicone mold with manual compression
+  4. Air-dry for 24 hours (no heat — preserves the functional ingredients)
+  5. Package in small kraft paper bags or trial pouches
 - [ ] Test with friends, at a meetup, or keep for personal use
 - **Deliverable:** Physical product for feedback
 - Est. cost: ~$50–$100 for the test batch run
+- Note: "Hand-pressed" is the accurate description. Not cold-pressed (that's Neuro Gum's patent). Made with cold-process ingredients (matcha, lion's mane aren't heated during pressing).
 
 #### 2.4 — Packaging Prototype
 - [ ] Design a simple label (Canva, Figma, or hire on Fiverr)
 - Label must include (per Health Canada):
-  - Product name (Focus Gummy)
+  - Product name (Focus Mints)
   - Ingredients list
-  - Net quantity (20 gummies)
+  - Net quantity (20 minties)
   - Nutrition Facts table
   - Allergen declaration
   - Caffeine disclosure (50mg = one coffee's equivalent)
@@ -137,7 +135,7 @@ This is a pre-launch project. Everything below is what needs to happen to get to
   - A simple sign or banner (foldable, portable)
   - Business cards or a link to the online store (for future D2C)
 - [ ] Practice a 15-second pitch:
-  > "Overclock — focus gummies for gamers and coders. Lion's Mane, L-Theanine, one coffee's worth of caffeine. No crash. Berry flavor. $7."
+  > "Overclock — focus minties for gamers and coders. Lion's Mane, L-Theanine, one coffee's worth of caffeine. No crash. Berry flavor. $7."
 
 #### 3.3 — Execute First Event
 - [ ] Attend the event, staff the table
@@ -168,7 +166,7 @@ This is a pre-launch project. Everything below is what needs to happen to get to
 
 #### 4.2 — D2C Online Store (Simple)
 - [ ] Set up a Shopify store (or use Gumroad for simplicity)
-- [ ] List the Focus Gummy with real photos and the approved label
+- [ ] List the Focus Mints with real photos and the approved label
 - [ ] Set up e-transfer or Stripe for payments
 - [ ] Drive traffic via: Instagram, Twitter/X, Solana community, Discord
 
@@ -214,7 +212,7 @@ This is a pre-launch project. Everything below is what needs to happen to get to
 | Incorporation (federal + Ontario) | $300–$400 |
 | CIPO trademark search + filing | $500–$800 |
 | Ingredients (first batch) | $40–$60 |
-| Gummy mold | $30–$60 |
+| Tablet press mold | $30–$60 |
 | Test batch production | $50–$100 |
 | Label printing + packaging | $20–$30 |
 | More ingredients (batch 2) | $50–$100 |
@@ -242,7 +240,7 @@ Revenue after 3 events: $420–$1,050
 |-----------|--------|
 | Domain registered | Week 1 |
 | Incorporation filed | Week 1–2 |
-| First gummy batch made | Week 3–4 |
+| First mint batch made | Week 3–4 |
 | First event | Week 5–6 |
 | First revenue | Week 5–6 |
 | Break-even | Month 2 |
@@ -272,7 +270,7 @@ Before attending the first event, confirm:
 **Incorporation:** Ownr.ca (Ontario)
 **Domain:** Namecheap, Hover, Cloudflare
 **Ingredients:** Nutri.ca, Amazon.ca, Direct Nutrition Supply
-**Gummy mold:** Amazon.ca (search "silicone gummy mold")
+**Tablet press mold:** Amazon.ca (search "TDP-0 mold" or "tablet press mold")
 **Label design:** Canva (free) or Figma (free)
 **Business banking:** RBC, BMO, Alterna Bank, EQ Bank
 **Events:** Superteam Canada, Solana events, Meetup.com (Toronto tech/gaming)

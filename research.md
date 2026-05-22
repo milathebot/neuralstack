@@ -1,13 +1,13 @@
 # Overclock — Market Research
-*Toronto, Canada | Nootropics gummies for gamers/coders/builders*
+*Toronto, Canada | Nootropics minties for gamers/coders/builders*
 
 ---
 
 ## MARKET CONTEXT
 
-**Category:** Nootropic gummies, focus snacks for builders
+**Category:** Nootropic minties, focus snacks for builders
 **Audience:** Gamers (18–35), coders (18–40), Web3 builders, people in flow state
-**Format:** Focus gummy (Lion's Mane + L-Theanine + Caffeine + B6), 20-count pouch
+**Format:** Focus Mints (hand-pressed mint tablets with Matcha + Cacao + Lion's Mane), 20-count kraft pouch
 **Price:** $4 wholesale / $7 retail
 **Venue:** Events (Superteam Canada, Solana meetups, farmers markets, festivals)
 **Partnership:** Complementary to drink brand (bundle opportunity, no conflict)
@@ -21,11 +21,11 @@
 
 | Brand | Format | Price | Positioning | Weakness |
 |-------|--------|-------|-------------|----------|
-| **NeuroVance** | Brain health gummies | $4.99–$7.99 | General brain health, wellness | Not flow-state, not gamer-focused |
+| **NeuroVance** | Brain health minties | $4.99–$7.99 | General brain health, wellness | Not flow-state, not gamer-focused |
 | **Figma Snacks** | Focus bars | $4.99 | Gamer-adjacent, online only | Weak brand, online-only |
-| **Hedd Chocolate** | Functional chocolate | $5.99–$8.99 | Mushroom nootropics, premium | Not gaming-adjacent, not gummy |
-| **Vivid** | Energy gummies | $5.99 | Energy, focus, convenience | Convenience stores, not nootropic |
-| **Kickmate** | Energy mints | $5.99 | On-the-go energy | Not gummy, not nootropic |
+| **Hedd Chocolate** | Functional chocolate | $5.99–$8.99 | Mushroom nootropics, premium | Not gaming-adjacent, not mint |
+| **Vivid** | Energy minties | $5.99 | Energy, focus, convenience | Convenience stores, not nootropic |
+| **Kickmate** | Energy mints | $5.99 | On-the-go energy | Not mint, not nootropic |
 
 ### US (Threat)
 
@@ -33,7 +33,7 @@
 |-------|--------|-------|
 | **Genius Brands** | HIGH | Gaming-adjacent, strong brand, could enter Canada via Amazon |
 | **Ka'Chava** | MEDIUM | Premium omni-platform |
-| **Brain Drink** | MEDIUM | RTD, could pivot to gummy |
+| **Brain Drink** | MEDIUM | RTD, could pivot to mint |
 
 ### Gap
 
@@ -52,7 +52,7 @@ No brand owns the focus moment for builders in Canada. Nobody is speaking to the
 | Caffeine powder | ~$5 |
 | Vitamin B6 | ~$3 |
 | Gelatin + flavor | ~$10 |
-| Gummy mold (one-time) | $30–$60 |
+| Mint mold (one-time) | $30–$60 |
 | Packaging pouches | ~$30–$50 |
 | **Total** | **$93–$143** |
 
@@ -120,7 +120,7 @@ No brand owns the focus moment for builders in Canada. Nobody is speaking to the
 ## SOURCING NOTES
 
 - Bulk supplements: Nutri.ca, Amazon, Direct Nutrition Supply
-- Gummy mold: Amazon ($30–$60 silicone mold, one-time buy)
+- Mint mold: Amazon ($30–$60 silicone mold, one-time buy)
 - Packaging pouches: Alibaba, Uline, or local print shop
 - Co-manufacturer setup fees typically $500–$1,000 (not viable until Phase 2)
 

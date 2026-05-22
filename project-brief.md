@@ -1,18 +1,18 @@
 # Overclock — Project Brief
-**Focus Gummies for Builders | Toronto, Canada**
+**Focus Minties for Builders | Toronto, Canada**
 **Version 3.0 | May 2025**
 
 ---
 
 ## EXECUTIVE SUMMARY
 
-Overclock is a nootropic gummy brand for gamers, coders, and Web3 builders. One SKU. One niche. One shot at owning the focus moment.
+Overclock is a nootropic mint brand targeting gamers, coders, and Web3 builders in Canada. One SKU. One niche. One shot at owning the focus moment.
 
 No gym references. No wellnessfluencer copy. No protein line. Just: you're in the zone, you need to stay there, take one of these.
 
 **Tagline:** Find your focus. Stay there.
 
-**Format:** Focus gummy (Lion's Mane + L-Theanine + Caffeine + B6), 20-count pouch
+**Format:** Focus Mints (hand-pressed mint tablets with Matcha + Cacao + Lion's Mane), 20-count kraft pouch
 
 **Price:** $4 wholesale / $7 retail (20-serving pouch)
 
@@ -33,7 +33,7 @@ No gym references. No wellnessfluencer copy. No protein line. Just: you're in th
 ### Market Context
 
 - Nootropics market (Canada): **$340M**, growing 12% YoY
-- Gummies are the fastest-growing format in functional snacks
+- Minties are the fastest-growing format in functional snacks
 - Gamer/coder demographic in Ontario: **2.4M daily active users**, ages 18–40
 - Web3/Solana event audience in GTA: **10K+ high-intent foot traffic annually**
 
@@ -99,7 +99,7 @@ No brand in Canada is speaking directly to the coder in flow state, the gamer gr
 
 ## 5. PRODUCT
 
-### SKU: Focus Gummy
+### SKU: Focus Mints
 
 **Ingredients per serving:**
 - Lion's Mane (250mg) — nerve growth factor, memory support
@@ -108,7 +108,7 @@ No brand in Canada is speaking directly to the coder in flow state, the gamer gr
 - Vitamin B6 (10mg) — brain function, energy metabolism
 
 **Format:**
-- Gummy (berry flavor, sugar-free option available)
+- Mint (berry flavor, sugar-free option available)
 - 20-count pouch (20 servings)
 - No crash, lasts 4–6 hours
 
@@ -117,9 +117,9 @@ No brand in Canada is speaking directly to the coder in flow state, the gamer gr
 - Retail: $7.00 per 20-count pouch
 
 **Phase 2 SKUs (future):**
-- Energy Gummy — higher caffeine, green tea based
-- Sleep Gummy — melatonin, chamomile, ashwagandha
-- Immunity Gummy — zinc, elderberry, vitamin C
+- Energy Mint — higher caffeine, green tea based
+- Sleep Mint — melatonin, chamomile, ashwagandha
+- Immunity Mint — zinc, elderberry, vitamin C
 
 ---
 
@@ -156,7 +156,7 @@ Your friend's energy drink brand (yerba mate, etc.) covers the hydration/energy 
 ### Bundle Concept
 
 **"The Focus Bundle"**
-- Drink + Overclock gummies sold together at events
+- Drink + Overclock minties sold together at events
 - Higher AOV (average order value)
 - 50/50 revenue split on the bundle
 - Cross-promote on socials
@@ -164,11 +164,11 @@ Your friend's energy drink brand (yerba mate, etc.) covers the hydration/energy 
 
 ### The Pitch to Your Friend
 
-"Your drink + my gummy = focus bundle. Different categories, same person, same moment. No conflict, pure synergy."
+"Your drink + my mint = focus bundle. Different categories, same person, same moment. No conflict, pure synergy."
 
 ### Non-Conflict Agreement
 - Her brand: drinks, RTD, hydration
-- Overclock: gummies, snack, focus
+- Overclock: minties, snack, focus
 - No overlap. No competition. Just complementary sales at the same events.
 
 ---
@@ -195,11 +195,11 @@ Your friend's energy drink brand (yerba mate, etc.) covers the hydration/energy 
 
 | Brand | Format | Weakness |
 |-------|--------|----------|
-| NeuroVance | Brain health gummies | General wellness, not flow-state focused |
+| NeuroVance | Brain health minties | General wellness, not flow-state focused |
 | Figma Snacks | Focus bars | Online only, weak branding |
 | Hedd Chocolate | Functional chocolate | Premium, not gaming-adjacent |
-| Vivid | Energy gummies | Convenience stores, not nootropic |
-| Kickmate | Energy mints | Not gummy, not nootropic |
+| Vivid | Energy minties | Convenience stores, not nootropic |
+| Kickmate | Energy mints | Not mint, not nootropic |
 
 ### US (Threat)
 
@@ -207,7 +207,7 @@ Your friend's energy drink brand (yerba mate, etc.) covers the hydration/energy 
 |-------|--------|-------|
 | Genius Brands | HIGH | Gaming-adjacent, strong brand, could enter Canada via Amazon |
 | Ka'Chava | MEDIUM | Premium omni-platform |
-| Brain Drink | MEDIUM | RTD, could pivot to gummy |
+| Brain Drink | MEDIUM | RTD, could pivot to mint |
 
 ### Gap
 
@@ -238,7 +238,7 @@ No brand owns the focus moment for builders in Canada. Nobody is speaking to the
 | Caffeine powder | Same | ~$5 |
 | Vitamin B6 | Same | ~$3 |
 | Gelatin + flavor | Amazon, local | ~$10 |
-| Gummy mold | Amazon | $30–$60 |
+| Mint mold | Amazon | $30–$60 |
 | Packaging pouches | Alibaba, Uline, local print | ~$30–$50 |
 | **Total first run** | | **~$93–$143** |
 
