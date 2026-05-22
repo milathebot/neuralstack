@@ -5,7 +5,7 @@
 
 ## The Name
 
-**MunchPad** — "Snack. Stack. Ship."
+**MunchPad** — "Find your focus. Stay there."
 
 A pad is where you work (your desk, your setup, your workspace). A munch is what you do while you're working. "MunchPad" is the place where builders snack. It says exactly what it is, exactly who it's for, and it sounds like a brand that belongs on a coder's desk.
 
@@ -38,11 +38,17 @@ A pad is where you work (your desk, your setup, your workspace). A munch is what
 ## What Needs Updating
 
 Once name is locked:
-- [ ] Register domain
-- [ ] Update pitch-deck.html (title, all references)
-- [ ] Update project-brief.md (name, all references)
-- [ ] Incorporate under MunchPad brand
-- [ ] CIPO trademark search
+- [x] Register domain
+- [x] Update pitch-deck.html (title, all references)
+- [x] Update project-brief.md (name, all references)
+- [x] Incorporate under MunchPad brand
+- [x] CIPO trademark search
+
+---
+
+## Format Change Log
+
+May 2026: Product pivoted from "Focus Gummy" to "Focus Bites" (dark chocolate squares) and "Hacker's Trail" (functional trail mix). Gummies dropped due to Ontario home food regulations (not on low-risk list) and co-manufacturer MOQs (1,000-5,000 units at $6K-15K minimum). Chocolate and trail mix are explicitly on Ontario's low-risk home production list. New tagline locked: "Find your focus. Stay there."
 
 ---
 

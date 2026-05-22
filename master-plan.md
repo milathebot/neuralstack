@@ -1,20 +1,35 @@
 # MunchPad — Master Plan
-**Actionable Project Outline | Toronto, Canada | May 2025**
+**Actionable Project Outline | Toronto, Canada | Updated: May 2026**
 
 ---
 
 ## WHAT WE'RE BUILDING
 
-MunchPad is a nootropic gummy brand targeting gamers, coders, and Web3 builders in Canada. One SKU. One niche. One shot at owning the focus moment.
+MunchPad is a functional chocolate brand targeting gamers, coders, and Web3 builders in Canada. One SKU. One niche. One shot at owning the focus moment.
 
-**Product:** Focus gummy — Lion's Mane + L-Theanine + Caffeine + B6, 20-count pouch
-**Price:** $4 wholesale / $7 retail
+**Product:** Focus Bites — dark chocolate squares with matcha and lion's mane
+- Primary format: Dark chocolate squares (10g each, 5 per pouch)
+- Alternative format: "Hacker's Trail" trail mix (for future consideration)
+
+**Price:** $5 wholesale / $8–10 retail
 **Margin:** 85–88% at events, 70–80% wholesale
-**Budget to first sale:** $1,500–$2,000
+**Budget to first sale:** $1,250–$1,725
 **Timeline to first sale:** 6 weeks
 
 **Positioning:** Find your focus. Stay there.
 **Not:** A late-night brand. A gym brand. A wellness brand.
+
+---
+
+## WHY WE PIVOTED FROM GUMMIES TO CHOCOLATE
+
+In Phase 2 (post-validation), we researched Ontario home food regulations and discovered that gummies are **not** on the province's low-risk home production list. This means:
+
+- **Gummies require a commercial kitchen** — home production is not permitted under Ontario's Home Food Establishment regulations
+- **Co-manufacturer MOQs are prohibitive for a startup:** 1,000–5,000 units at $6,000–$15,000 minimum
+- **Chocolate and trail mix are explicitly listed** on Ontario's low-risk home production list — no commercial kitchen required for DIY production
+
+The pivot to dark chocolate squares gives us a producible, legal, and scalable product that can be made at home and later manufactured at scale through chocolate specialists.
 
 ---
 
@@ -24,10 +39,39 @@ MVP pitch deck is done. Messaging is locked. Brand is named. The product concept
 - Registered a domain
 - Filed incorporation
 - Sourced ingredients
-- Made a single gummy
+- Made a single batch
 - Sold anything
 
 This is a pre-launch project. Everything below is what needs to happen to get to first revenue.
+
+---
+
+## PRODUCT: FOCUS BITES RECIPE
+
+### Dark Chocolate Batch (50 × 10g squares)
+
+| Ingredient | Quantity | Source | Cost |
+|-----------|----------|--------|------|
+| Callebaut 70% callets | 400g | Costco (~$30/2.5kg) | ~$5 |
+| Culinary matcha | 30g | Bulk Barn (~$15/100g) or Jade Leaf bulk | ~$5 |
+| Lion's mane powder | 20g | Lemon Lily Tea (~$45/500g) | ~$2 |
+| Sea salt | To taste | Any | ~$0.50 |
+| Vanilla extract | Optional | Any | ~$0.50 |
+| MCT oil | Optional | Any | ~$1 |
+
+**Batch cost:** ~$8–11
+**Yield:** 50 squares × 10g = 500g chocolate
+**Per pouch:** 5 squares (~$0.82–1.12 in ingredients)
+
+### Directions
+1. Melt Callebaut callets in a double boiler, stirring gently
+2. Add matcha powder and lion's mane powder, mix until homogeneous
+3. Add sea salt and vanilla to taste
+4. Pour into silicone mold (50-cavity square mold)
+5. Refrigerate until set (1–2 hours)
+6. Pop out and package in resealable pouches
+
+**Skill to develop:** Chocolate tempering — improves snap, shine, and shelf stability. Learn via YouTube tutorial before Batch 2.
 
 ---
 
@@ -73,52 +117,49 @@ This is a pre-launch project. Everything below is what needs to happen to get to
 **Goal: Have a physical product to test.**
 
 #### 2.1 — Source Ingredients
-- [ ] Source the following from Nutri.ca, Amazon, or Direct Nutrition Supply:
-  - Lion's Mane extract 250mg
-  - L-Theanine 100mg
-  - Caffeine powder (natural, 50mg/serving)
-  - Vitamin B6
-  - Gelatin or agar powder (for gummy base)
-  - Berry flavoring (natural or artificial)
-  - Sugar or sugar substitute (optional)
-- Est. cost: ~$40–$60 for a 100-serving run
+- [ ] **Chocolate callets:** Buy Callebaut 70% from Costco (~$30/2.5kg bag)
+- [ ] **Culinary matcha:** Buy from Bulk Barn (~$15/100g) or Jade Leaf bulk
+- [ ] **Lion's mane powder:** Buy from Lemon Lily Tea (~$45/500g)
+- [ ] **Extras:** Sea salt, vanilla extract, MCT oil (optional)
+- Est. cost: ~$60–80 for first batch run + extras
 
-#### 2.2 — Buy Gummy Mold
-- [ ] Buy a silicone gummy mold on Amazon (one-time purchase)
-  - Look for: 20-cavity mold (matches 20-serving pouch)
-  - Est. cost: $30–$60
-- Tip: Search "silicone gummy mold" or "candy making mold" on Amazon CA
+#### 2.2 — Buy Equipment
+- [ ] Silicone chocolate mold (50-cavity square mold) — Amazon CA
+- [ ] Digital kitchen scale (0.1g precision) — already common in most kitchens
+- [ ] Heat-seal bagger or impulse sealer — for pouch packaging
+- [ ] Small funnel or squeeze bottle — for filling pouches
+- Est. cost: $150–300 (one-time)
 
 #### 2.3 — First Test Batch (DIY)
-- [ ] Make 20–50 gummies at home following a basic gummy recipe:
-  1. Bloom gelatin in cold water
-  2. Heat gently, add sweetener and flavor
-  3. Add pre-mixed powdered ingredients
-  4. Pour into mold
-  5. Refrigerate for 2–3 hours
-  6. Remove from mold, let dry overnight
-- [ ] Package in small ziplock bags or trial pouches
+- [ ] Make 50 dark chocolate squares with matcha + lion's mane:
+  1. Melt Callebaut callets in double boiler
+  2. Whisk in matcha and lion's mane powder
+  3. Add sea salt and vanilla to taste
+  4. Pour into silicone mold
+  5. Refrigerate 1–2 hours until set
+  6. Remove from mold, package 5 squares per pouch
 - [ ] Test with friends, at a meetup, or keep for personal use
 - **Deliverable:** Physical product for feedback
-- Est. cost: ~$50–$100 for the test batch run
+- Est. cost: ~$8–11 per batch
 
 #### 2.4 — Packaging Prototype
-- [ ] Design a simple label (Canva, Figma, or hire on Fiverr)
-- Label must include (per Health Canada):
-  - Product name (Focus Gummy)
+- [ ] Design a simple label on Canva (free)
+- Label must include:
+  - Product name (Focus Bites)
   - Ingredients list
-  - Net quantity (20 gummies)
+  - Net quantity (5 squares × 10g each)
   - Nutrition Facts table
-  - Allergen declaration
-  - Caffeine disclosure (50mg = one coffee's equivalent)
-  - Bilingual (EN + FR) — or EN-only for now, add FR before Quebec sales
+  - Allergen declaration (milk, may contain traces of nuts)
+  - Caffeine disclosure (natural, from matcha + cacao)
+  - Bilingual (EN + FR) — required for Quebec, encouraged for all
   - Company name and address
-- [ ] Print on sticker paper (Avery or equivalent) and apply to small resealable pouches
-- Est. cost: $20–$30 for sticker paper + ink
+  - **No focus/cognition claims** ("focus," "cognitive," etc. are disallowed without NPN)
+- [ ] Print on sticker paper (Avery or equivalent) and apply to resealable pouches
+- Est. cost: ~$50 for labels + sticker paper
 
 ---
 
-### PHASE 3 — SALES CHANNEL (Weeks 4–6)
+### PHASE 3 — FIRST EVENT (Weeks 4–6)
 
 **Goal: Get the product in front of the right people and make first revenue.**
 
@@ -137,7 +178,7 @@ This is a pre-launch project. Everything below is what needs to happen to get to
   - A simple sign or banner (foldable, portable)
   - Business cards or a link to the online store (for future D2C)
 - [ ] Practice a 15-second pitch:
-  > "MunchPad — focus gummies for gamers and coders. Lion's Mane, L-Theanine, one coffee's worth of caffeine. No crash. Berry flavor. $7."
+  > "MunchPad — Focus Bites. Dark chocolate with matcha and lion's mane. Natural energy, no crash. $8."
 
 #### 3.3 — Execute First Event
 - [ ] Attend the event, staff the table
@@ -147,8 +188,8 @@ This is a pre-launch project. Everything below is what needs to happen to get to
   - How many sold
   - What questions they asked
   - Flavor/texture feedback
-- **Goal:** Sell 20–50 pouches, collect real feedback
-- Revenue target: $140–$350 at $7/pouch
+- **Goal:** Sell 50–100 pouches, collect real feedback
+- Revenue target: $400–1,000 at $8–10/pouch
 
 #### 3.4 — Document Feedback
 - [ ] After the event, write up a brief feedback summary
@@ -162,13 +203,14 @@ This is a pre-launch project. Everything below is what needs to happen to get to
 **Goal: Reinvest revenue, build the loop, prepare for co-manufacturing.**
 
 #### 4.1 — Reinvest Loop
-- [ ] Take first event revenue ($300–$700 estimated)
-- [ ] Reinvest into: ingredients for batch 2, better packaging, more molds (to speed up DIY production)
+- [ ] Take first event revenue ($400–$1,000 estimated)
+- [ ] Reinvest into: ingredients for batch 2–3, better packaging, more molds (to speed up DIY production)
+- **Learn:** Chocolate tempering technique for improved product quality
 - Goal: Attend 2–3 events per month, build revenue runway
 
 #### 4.2 — D2C Online Store (Simple)
 - [ ] Set up a Shopify store (or use Gumroad for simplicity)
-- [ ] List the Focus Gummy with real photos and the approved label
+- [ ] List the Focus Bites with real photos and the approved label
 - [ ] Set up e-transfer or Stripe for payments
 - [ ] Drive traffic via: Instagram, Twitter/X, Solana community, Discord
 
@@ -177,20 +219,24 @@ This is a pre-launch project. Everything below is what needs to happen to get to
 - [ ] Gaming cafes / esports lounges in Toronto (ask about consignment or display)
 - [ ] More Superteam/Solana events (build the recurring channel)
 
-#### 4.4 — Drink Partnership Meeting
-- [ ] Have a conversation with your friend about the drink brand partnership
-- [ ] Agree on:
-  - Bundle format and pricing
-  - Revenue split (50/50 suggested)
-  - Who supplies what
-  - Next event to do together
-- [ ] Execute the first co-branded event
+#### 4.4 — Co-Manufacturer Research
+- [ ] Research and contact manufacturers for future scale-up:
+  - **Rootree** (Burlington, ON) — co-packer for trail mix or pre-made fillings
+  - **Soma Chocolatemaker** (Toronto) — small-batch private label chocolate
+  - **Hownature Nutraceutical** (Markham, ON) — gummy/capsule, worth a call for future phases
+  - **Herbaland** (Richmond, BC) — future scale-up
+- Note: Don't engage until demand is confirmed (100+ units sold DIY)
 
-#### 4.5 — Phase 2 Sourcing (Co-Manufacturer)
-- [ ] If demand is confirmed (100+ units sold), research Brandable Nutrition
-- [ ] Request a quote and sample run
-- [ ] Plan the first co-manufactured batch (MOQ 250 = ~$375–$500 production cost)
-- Note: Don't do this until revenue from DIY events funds it
+---
+
+## REGULATORY NOTES
+
+- **Plain food track** — no NPN (Natural Product Number) required for chocolate squares with food ingredients
+- **Bilingual labels** — English and French required for Quebec sales; recommended for all Canadian listings
+- **No focus/cognition claims** on label — "focus," "cognitive," "brain," "memory" are functional food claims that require Health Canada authorization. Use "natural energy" or "contains caffeine" only.
+- **New front-of-pack symbol (Jan 2026)** — Canada is rolling out front-of-pack warning labels for foods high in sodium, sugar, or saturated fat. Plan label design to avoid triggering these if possible.
+- **Caffeine from natural sources only** — matcha and cacao are the only caffeine sources
+- **Do NOT add:** isolated caffeine powder, L-theanine powder (as an additive), or B vitamins — these change the regulatory classification
 
 ---
 
@@ -202,7 +248,6 @@ This is a pre-launch project. Everything below is what needs to happen to get to
 | Branding + design | [Owner] |
 | Sales + events | [Owner] |
 | Ops + legal + admin | Cleo |
-| Partnership (drink brand) | [Owner] |
 
 ---
 
@@ -213,26 +258,31 @@ This is a pre-launch project. Everything below is what needs to happen to get to
 | Domain registration | $10–$20 |
 | Incorporation (federal + Ontario) | $300–$400 |
 | CIPO trademark search + filing | $500–$800 |
-| Ingredients (first batch) | $40–$60 |
-| Gummy mold | $30–$60 |
-| Test batch production | $50–$100 |
-| Label printing + packaging | $20–$30 |
-| More ingredients (batch 2) | $50–$100 |
-| **Total to first event** | **~$1,000–$1,500** |
+| Ingredients (200 pouches) | $200–$275 |
+| Packaging (200 pouches) | $100–$150 |
+| One-time equipment (scales, molds, sealer) | $150–$300 |
+| Custom labels | $50 |
+| Food handler certificate | ~$50 |
+| Liability insurance | $400–$600/year (defer if needed) |
+| Brand setup | $100 |
+| Contingency | $200 |
+| **Total to first event** | **~$1,250–$1,725** |
 
-Revenue after first event: $140–$350 (50 pouches sold)
-Revenue after 3 events: $420–$1,050
+Revenue after first event: $400–$1,000 (50–100 pouches at $8–10)
+Revenue after 3 events: $1,200–$3,000
 **Break-even: Month 1–2.** Reinvest loop starts immediately.
 
 ---
 
 ## WHAT NOT TO DO YET
 
-- Don't file for an NPN (not needed — conventional functional food)
-- Don't invest in a co-manufacturer (too early, MOQ too high)
+- Don't file for an NPN (not needed — plain food with food ingredients only)
+- Don't invest in a co-manufacturer (too early; MOQ 1,000+ units, $6K–15K minimum)
 - Don't build a full e-commerce site before validating at events
 - Don't trademark internationally (Canada first)
 - Don't raise external capital until product-market fit is confirmed
+- Don't use focus/cognition/brain claims on labels (regulatory risk)
+- Don't add isolated nutrients (L-theanine powder, caffeine powder, B vitamins)
 
 ---
 
@@ -240,15 +290,34 @@ Revenue after 3 events: $420–$1,050
 
 | Milestone | Target |
 |-----------|--------|
-| Domain registered | Week 1 |
-| Incorporation filed | Week 1–2 |
-| First gummy batch made | Week 3–4 |
-| First event | Week 5–6 |
-| First revenue | Week 5–6 |
-| Break-even | Month 2 |
-| Co-manufacturer research | Month 3+ |
-| 10+ events attended | Month 3 |
-| Phase 2 production run | Month 4–6 (if demand confirmed) |
+| Domain registered | Week 1 (May 2026) |
+| Incorporation filed | Week 1–2 (May 2026) |
+| CIPO search complete | Week 2 (May 2026) |
+| Ingredients purchased | Week 2–3 (May 2026) |
+| Equipment purchased | Week 2–3 (May 2026) |
+| First chocolate batch made | Week 3–4 (May–June 2026) |
+| Label design + printing | Week 4–5 (June 2026) |
+| First event | Week 5–6 (June 2026) |
+| First revenue | Week 5–6 (June 2026) |
+| Break-even | Month 2 (July 2026) |
+| Co-manufacturer research | Month 3+ (July 2026+) |
+| 10+ events attended | Month 3 (July 2026) |
+| Phase 2 production run (gummy pivot — if demand confirmed) | Month 4–6 |
+
+**Note:** Gummy pivot is a Phase 2 consideration, post-validation. If DIY chocolate proves demand, gummy co-manufacturing becomes an option at Month 4–6 with confirmed revenue.
+
+---
+
+## MANUFACTURER CONTACTS
+
+For future scale-up (when DIY hits capacity limits):
+
+| Company | Location | Notes |
+|---------|----------|-------|
+| Rootree | Burlington, ON | Co-packer for trail mix or pre-made fillings |
+| Soma Chocolatemaker | Toronto, ON | Small-batch private label chocolate |
+| Hownature Nutraceutical | Markham, ON | Gummy/capsule — worth a call for future phases |
+| Herbaland | Richmond, BC | Future scale-up |
 
 ---
 
@@ -258,12 +327,14 @@ Before attending the first event, confirm:
 
 - [ ] Domain registered
 - [ ] Incorporation complete (or in progress)
-- [ ] Label meets Health Canada requirements (EN + FR for Quebec)
+- [ ] Label meets Health Canada requirements (EN + FR for Quebec, no functional claims)
 - [ ] Product is packaged and labeled
 - [ ] Cash box or e-transfer ready
 - [ ] 15-second pitch practiced
 - [ ] Enough product made (aim for 50–100 pouches)
 - [ ] Event confirmed, booth/table secured
+- [ ] Food handler certificate obtained (recommended)
+- [ ] New front-of-pack symbol considered in label design
 
 ---
 
@@ -271,15 +342,19 @@ Before attending the first event, confirm:
 
 **Incorporation:** Ownr.ca (Ontario)
 **Domain:** Namecheap, Hover, Cloudflare
-**Ingredients:** Nutri.ca, Amazon.ca, Direct Nutrition Supply
-**Gummy mold:** Amazon.ca (search "silicone gummy mold")
-**Label design:** Canva (free) or Figma (free)
+**Chocolate callets:** Costco (Callebaut 70%)
+**Matcha:** Bulk Barn, Jade Leaf
+**Lion's mane:** Lemon Lily Tea
+**Chocolate mold:** Amazon.ca (search "silicone chocolate mold")
+**Label design:** Canva (free)
 **Business banking:** RBC, BMO, Alterna Bank, EQ Bank
 **Events:** Superteam Canada, Solana events, Meetup.com (Toronto tech/gaming)
 **Trademark:** CIPO (cipo.ic.gc.ca)
+**Ontario home food rules:** O. Reg. 91/14 (Ontario's Home Food Establishment regulation)
+**Co-manufacturers:** Rootree, Soma, Hownature, Herbaland (see contacts above)
 
 ---
 
 *This document is the source of truth for MunchPad Phase 1. Update as you learn more.*
 
-*Prepared by: Cleo | May 2025*
+*Prepared by: Cleo | Updated: May 2026*
