@@ -1,4 +1,4 @@
-# LateNight — Project Brief
+# MunchPad — Project Brief
 **Focus Gummies for Builders | Toronto, Canada**
 **Version 2.0 | May 2025**
 
@@ -6,7 +6,7 @@
 
 ## EXECUTIVE SUMMARY
 
-LateNight is a nootropic gummy brand for gamers, coders, and Web3 builders. One SKU. One niche. One shot at owning the late-night focus moment.
+MunchPad is a nootropic gummy brand for gamers, coders, and Web3 builders. One SKU. One niche. One shot at owning the late-night focus moment.
 
 No gym references. No wellnessfluencer copy. No protein line. Just: it's late, you're building, take one of these.
 
@@ -58,7 +58,7 @@ No brand in Canada is speaking directly to the late-night coder, Discord-grindin
 
 ## 3. BRAND
 
-### Name: LateNight
+### Name: MunchPad
 
 **Rationale:** Tells time, tells mood, tells audience. "It's late. I'm still building." It's not a wellness brand name — it's a timestamp that says exactly who it's for.
 
@@ -151,12 +151,12 @@ No brand in Canada is speaking directly to the late-night coder, Discord-grindin
 
 ### Why This Works
 
-Your friend's energy drink brand (yerba mate, etc.) covers the hydration/energy angle. LateNight covers the snack/focus angle. Same person, same late-night moment, two different products. Natural bundle.
+Your friend's energy drink brand (yerba mate, etc.) covers the hydration/energy angle. MunchPad covers the snack/focus angle. Same person, same late-night moment, two different products. Natural bundle.
 
 ### Bundle Concept
 
 **"The All-Nighter Bundle"**
-- Drink + LateNight gummies sold together at events
+- Drink + MunchPad gummies sold together at events
 - Higher AOV (average order value)
 - 50/50 revenue split on the bundle
 - Cross-promote on socials
@@ -168,7 +168,7 @@ Your friend's energy drink brand (yerba mate, etc.) covers the hydration/energy 
 
 ### Non-Conflict Agreement
 - Her brand: drinks, RTD, hydration
-- LateNight: gummies, snack, focus
+- MunchPad: gummies, snack, focus
 - No overlap. No competition. Just complementary sales at the same events.
 
 ---
@@ -341,7 +341,7 @@ When to move to co-manufacturer:
 
 ## 16. RECOMMENDED NEXT STEPS
 
-1. **Lock brand name** — LateNight.co or LateNight.ca. Register immediately.
+1. **Lock brand name** — MunchPad.co or MunchPad.ca. Register immediately.
 2. **Incorporate** — Federal + provincial. Protect the name.
 3. **Source ingredients** — Order from Nutri.ca or Amazon. Spend $100–$150.
 4. **Buy gummy mold** — Amazon, $30–$60 silicone mold.
@@ -355,11 +355,11 @@ When to move to co-manufacturer:
 
 ## 17. APPENDIX: NAME OPTIONS
 
-If LateNight doesn't land, alternatives:
+If MunchPad doesn't land, alternatives:
 
 | Rank | Name | Rationale |
 |------|------|-----------|
-| 1 | LateNight | Time tells everything |
+| 1 | MunchPad | Time tells everything |
 | 2 | Sharp | Short, gaming term, "stay sharp" |
 | 3 | Grind | Gamer/coder vocabulary |
 | 4 | Build | What they do, "building" |
