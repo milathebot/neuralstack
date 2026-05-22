@@ -1,10 +1,15 @@
 # Overclock — Master Plan
+<<<<<<< Updated upstream
 **Actionable Project Outline | Toronto, Canada | May 2025**
+=======
+**Version 7 | May 2026**
+>>>>>>> Stashed changes
 
 ---
 
-## WHAT WE'RE BUILDING
+## SITUATION
 
+<<<<<<< Updated upstream
 Overclock is a nootropic mint brand targeting gamers, coders, and Web3 builders in Canada. One SKU. One niche. One shot at owning the focus moment.
 
 **Product:** Focus Mints — Matcha + Cacao + Lion's Mane, hand-pressed mint tablets, 20-count kraft pouch
@@ -117,16 +122,101 @@ This is a pre-launch project. Everything below is what needs to happen to get to
 ---
 
 ### PHASE 3 — SALES CHANNEL (Weeks 4–6)
+=======
+Overclock is a functional mint brand targeting gamers, coders, and Web3 builders in Canada.
 
-**Goal: Get the product in front of the right people and make first revenue.**
+**Product:** Pressed focus mints — 30-tablet flip-top tin, chocolate-espresso, sugar-free
+**Price:** $6–8 wholesale / $10–14 retail
+**Margin:** ~70% at events, 50–57% wholesale
+**Budget to first sale:** $1,400–1,800
 
-#### 3.1 — Identify First Event
-- [ ] Find the next Superteam Canada or Solana/Web3 meetup in Toronto/GTA
-  - Check: Superteam Canada Twitter/X, Solana events pages, Meetup.com
-  - Apply for a table/booth (often free or low cost for community events)
-- [ ] Also check: farmers markets (Kensington, St. Lawrence, Stackt), local hackathons
-- Tip: Superteam Canada events are the highest-intent audience for this product
+**Format reference:** Altoids / Neuro Mints
+**Terminology:** "Hand-pressed" or "pressed" — never "cold-pressed" (Neuro Gum patent)
 
+---
+
+## THE FORMULA (per 1g tablet)
+
+| Ingredient | % | Notes |
+|------------|---|-------|
+| Xylitol | 60% | Sugar-free sweetener base |
+| Mannitol | 10% | Sugar alcohol, clean taste |
+| Dutch-processed cocoa | 8% | Chocolate base + theobromine |
+| Coffee extract | 3% | Natural caffeine source |
+| Ceremonial matcha | 3% | L-theanine + gentle caffeine |
+| Lion's mane dual-extract | 2% | Fruiting body mushroom |
+| Vanilla | 2% | Flavor carrier |
+| Natural chocolate flavor | 1.5% | Flavor blend |
+| Sea salt | 0.5% | Flavor amplification |
+| Stevia reb M | 0.3% | Zero-calorie sweetener |
+| Calcium stearate | 1% | Tablet binding agent |
+
+**Per tin (~30 tablets):** ~75mg natural caffeine, ~50mg L-theanine, ~600mg lion's mane
+**Dietary:** Sugar-free / vegan / gluten-free
+
+---
+
+## PHASE 1 — DIY PROTOTYPE (Weeks 1–4)
+
+**Goal: Have a physical product to test.**
+
+### 1.1 — Source Ingredients
+- [ ] Source from Bulk Barn, specialtyIngredient shops, and online:
+  - Xylitol (bulk, food-grade)
+  - Mannitol (bulk)
+  - Dutch-processed cocoa powder (70%+)
+  - Coffee extract (powder form, food-grade)
+  - Ceremonial matcha (culinary grade)
+  - Lion's mane dual-extract powder
+  - Vanilla extract / powder
+  - Natural chocolate flavor
+  - Sea salt (fine)
+  - Stevia reb M (pure)
+  - Calcium stearate (food-grade, tablet-grade)
+- Est. cost: ~$100–150 for initial run (200+ tins worth)
+
+### 1.2 — Buy Tablet Press
+- [ ] Buy TDP-0 tablet press + 10mm round dies on Amazon (one-time purchase)
+  - Est. cost: $400–600 all-in with dies
+  - This is the hand-press — standard mechanical compression, not cold-pressed
+- Tip: Search "TDP-0 tablet press" on Amazon or AliExpress
+
+### 1.3 — First Test Batch (DIY Hand-Press)
+- [ ] Make first 20 tablets:
+  1. Mix dry ingredients in correct proportions by weight
+  2. Press into 10mm round tablets using TDP-0 hand press
+  3. Air-dry for 24 hours (no heat — preserves functional ingredient integrity)
+  4. Package in small flip-top tins or trial pouches
+- [ ] Test with friends, at a meetup, or keep for personal use
+- **Deliverable:** Physical product for feedback
+- Note: "Hand-pressed" is the accurate description. Not cold-pressed (Neuro Gum's patent).
+
+### 1.4 — Packaging Prototype
+- [ ] Design a simple tin label (Canva or Figma)
+  - Overclock branding, bilingual EN/FR, Nutrition Facts table
+  - Dark espresso / matte brown aesthetic (reference: Ledger, Arc, Linear)
+- [ ] Print labels (local Toronto print shop or Cat Printed online)
+- Est. cost: ~$50–100 for first run of labels
+
+### 1.5 — Food Handler Cert
+- [ ] Apply for Toronto Public Health food handler certification
+  - Est. cost: ~$50
+  - One afternoon, online course + exam
+  - Required for selling food at events / retail in Ontario
+
+---
+
+## PHASE 2 — SOFT LAUNCH (Weeks 3–4)
+>>>>>>> Stashed changes
+
+**Goal: 100 tins, community feedback, first revenue.**
+
+### 2.1 — Produce 100 tins
+- [ ] Refine formula based on test batch feedback
+- [ ] Produce 100 tins with bilingual labels
+- [ ] Package: 30-tablet flip-top tin, EN/FR Nutrition Facts, ingredient list
+
+<<<<<<< Updated upstream
 #### 3.2 — Prepare for the Event
 - [ ] Print enough product for the event (aim for 50–100 pouches)
 - [ ] Bring:
@@ -152,13 +242,26 @@ This is a pre-launch project. Everything below is what needs to happen to get to
 - [ ] After the event, write up a brief feedback summary
 - [ ] Update the product label or packaging based on what people said
 - [ ] Lock the formula if feedback is positive; iterate if not
+=======
+### 2.2 — Soft Launch (Community)
+- [ ] Sell to friends, Discord community, Twitter/X followers
+- [ ] Gather feedback: taste, dose, packaging, price
+- [ ] Adjust flavor or dose if needed before bigger run
+
+### 2.3 — Insurance
+- [ ] Get product liability + commercial general liability insurance
+  - Est. cost: $400–600/year
+  - Required for any retail or event selling
+  - Look into: RBC Insurance, BMO, or specialty food liability brokers
+>>>>>>> Stashed changes
 
 ---
 
-### PHASE 4 — POST-FIRST-SALE (Month 2–3)
+## PHASE 3 — FIRST EVENT (Weeks 4–8)
 
-**Goal: Reinvest revenue, build the loop, prepare for co-manufacturing.**
+**Goal: 200+ tins at Superteam Canada / Toronto Solana event. First public sale.**
 
+<<<<<<< Updated upstream
 #### 4.1 — Reinvest Loop
 - [ ] Take first event revenue ($300–$700 estimated)
 - [ ] Reinvest into: ingredients for batch 2, better packaging, more molds (to speed up DIY production)
@@ -189,11 +292,52 @@ This is a pre-launch project. Everything below is what needs to happen to get to
 - [ ] Request a quote and sample run
 - [ ] Plan the first co-manufactured batch (MOQ 250 = ~$375–$500 production cost)
 - Note: Don't do this until revenue from DIY events funds it
+=======
+### 3.1 — Event Prep
+- [ ] Confirm event date and booth details
+- [ ] Produce 200 tins (total 300 including soft launch stock)
+- [ ] Design event-specific messaging: "Pressed focus mints. Chocolate-espresso."
+- [ ] Bring business cards / QR code to online store
+
+### 3.2 — At Event
+- [ ] Sell 200+ tins at $10–14 each
+- [ ] Collect testimonials, photos, pre-orders for batch 2
+- [ ] Identify bundle partner (energy drink brand — see Partnership section)
+- [ ] Capture contact info for follow-up
+
+### 3.3 — Post-Event Reinvest
+- [ ] Reinvest revenue into: ingredients for batch 2, better packaging, insurance
+- [ ] Document learnings: what worked, what didn't, what to change
 
 ---
 
-## THE TEAM
+## PHASE 4 — SCALE (Year 2+)
 
+**Triggers: 500+ tins/week demand, retail LOI in hand, or equity seed round.**
+
+### 4.1 — Co-Manufacturer
+- [ ] Identify co-manufacturer for pressed tablets:
+  - **Rootree** — Burlington, ON (trail mix / pressed tablets)
+  - **Hownature** — Markham, ON (capsules + pressed tablets)
+  - **Herbaland** — Richmond, BC (Canada's largest tablet mfr, MOQ 5,000–10,000)
+- [ ] Negotiate MOQ and pricing for 1,000–5,000 unit runs
+
+### 4.2 — Retail
+- [ ] Approach specialty retailers: supplement shops that "get it," not big box
+- [ ] Gaming cafes / esports lounges — where the audience already is
+- [ ] Online D2C: Shopify, Stripe, Instagram
+
+### 4.3 — Product Line (Future)
+- **Hacker's Trail** — functional trail mix (Phase 2, same ingredients)
+- **Energy Square** — higher caffeine variant (Phase 2)
+- All built on same base format and co-manufacturer relationship
+>>>>>>> Stashed changes
+
+---
+
+## UNIT ECONOMICS
+
+<<<<<<< Updated upstream
 | Role | Who |
 |------|-----|
 | Product formulation + production | [Owner] |
@@ -201,11 +345,23 @@ This is a pre-launch project. Everything below is what needs to happen to get to
 | Sales + events | [Owner] |
 | Ops + legal + admin | Cleo |
 | Partnership (drink brand) | [Owner] |
+=======
+| Metric | Value |
+|--------|-------|
+| All-in cost (200 tins) | $4.20–4.40/tin |
+| Marginal cost (incremental) | $2.25/tin |
+| Retail price | $10–14 |
+| Wholesale price | $6–8 |
+| Event margin | ~70% |
+| Wholesale margin | 50–57% |
+| Breakeven | ~65–70 tins at $10 retail |
+>>>>>>> Stashed changes
 
 ---
 
-## BUDGET SUMMARY
+## BUDGET
 
+<<<<<<< Updated upstream
 | Item | Est. Cost |
 |------|-----------|
 | Domain registration | $10–$20 |
@@ -221,21 +377,44 @@ This is a pre-launch project. Everything below is what needs to happen to get to
 Revenue after first event: $140–$350 (50 pouches sold)
 Revenue after 3 events: $420–$1,050
 **Break-even: Month 1–2.** Reinvest loop starts immediately.
+=======
+| Item | Cost |
+|------|------|
+| Ingredients + packaging | $450 |
+| Tablet press + dies | $400–600 |
+| Labels | $100 |
+| Food handler cert | $50 |
+| Insurance | $400–600 |
+| Contingency | $200 |
+| **Total** | **$1,400–1,800** |
+>>>>>>> Stashed changes
 
 ---
 
-## WHAT NOT TO DO YET
+## PARTNERSHIP — BUNDLE PLAY
 
+<<<<<<< Updated upstream
 - Don't file for an NPN (not needed — conventional functional food)
 - Don't invest in a co-manufacturer (too early, MOQ too high)
 - Don't build a full e-commerce site before validating at events
 - Don't trademark internationally (Canada first)
 - Don't raise external capital until product-market fit is confirmed
+=======
+**The pitch:** Your energy drink brand + Overclock mints = complete focus stack.
+
+- Different categories. Same person. Same moment. No conflict.
+- Bundle at events. Co-brand tin labels. 50/50 revenue split on bundle.
+- Cross-promote on socials. Share booth cost.
+- Canada-first: Viter, Run Gum, Neuro Mints aren't here. No US competition to lose to.
+
+**"Your drink + my mint = complete focus stack."**
+>>>>>>> Stashed changes
 
 ---
 
-## KEY DATES
+## REGULATORY SUMMARY
 
+<<<<<<< Updated upstream
 | Milestone | Target |
 |-----------|--------|
 | Domain registered | Week 1 |
@@ -271,9 +450,33 @@ Before attending the first event, confirm:
 **Domain:** Namecheap, Hover, Cloudflare
 **Ingredients:** Nutri.ca, Amazon.ca, Direct Nutrition Supply
 **Tablet press mold:** Amazon.ca (search "TDP-0 mold" or "tablet press mold")
+=======
+| Item | Status |
+|------|--------|
+| NPN | Not required — conventional food, not natural health product |
+| Supplemented Foods compliance | Not required — ingredient levels below threshold |
+| NIN | Not required — conventional food |
+| EN/FR Nutrition Facts label | Required — standard CFIA bilingual label |
+| Ontario home production | Legal under O. Reg. 493/17 (low-risk food exemption) |
+
+**Messaging rule:** Describe ingredients. Never claim effects.
+- Never: "focus," "cognition," "flow state," "nootropic," "brain boost"
+- Always: "Contains natural caffeine from coffee and matcha," "Pressed mint tablets with lion's mane"
+
+---
+
+## TOOLS & RESOURCES
+
+**Incorporation:** Ownr.ca (Ontario)
+**Domain:** Namecheap, Hover, Cloudflare
+**Ingredients:** Bulk Barn, specialtyIngredient shops, online (Amazon, Nutravita)
+**Tablet press:** Amazon / AliExpress (search "TDP-0 tablet press")
+>>>>>>> Stashed changes
 **Label design:** Canva (free) or Figma (free)
 **Business banking:** RBC, BMO, Alterna Bank, EQ Bank
+**Insurance:** RBC Insurance, BMO, specialty food liability brokers
 **Events:** Superteam Canada, Solana events, Meetup.com (Toronto tech/gaming)
+<<<<<<< Updated upstream
 **Trademark:** CIPO (cipo.ic.gc.ca)
 
 ---
@@ -281,3 +484,34 @@ Before attending the first event, confirm:
 *This document is the source of truth for Overclock Phase 1. Update as you learn more.*
 
 *Prepared by: Cleo | May 2025*
+=======
+**Food handler cert:** Toronto Public Health (~$50)
+
+---
+
+## WHAT'S DONE / NOT DONE
+
+**Done:**
+- [x] Name locked — Overclock
+- [x] Format locked — pressed mint tablets, 30-ct flip-top tin, chocolate-espresso
+- [x] Stack finalized — exact formula with percentages
+- [x] Pricing set — $10–14 retail / $6–8 wholesale
+- [x] Regulatory path confirmed — conventional food, no NPN
+- [x] Competitors verified — Neuro Mints, Awak'n, Run Gum, Viter (all US-only)
+- [x] Market data validated — $407M segment, 6% CAGR, Canada whitespace
+- [x] Brand voice defined — Ledger/Arc/Linear/Raycast aesthetic, dark brown/black/matte
+- [x] Timeline set — 4–8 weeks to first sale
+
+**In progress:**
+- [ ] Incorporate under Overclock brand
+- [ ] CIPO trademark search
+- [ ] Source ingredients
+- [ ] Buy TDP-0 tablet press
+- [ ] First prototype batch
+- [ ] Food handler cert
+- [ ] Insurance
+
+---
+
+*Prepared by: Cleo | May 2026*
+>>>>>>> Stashed changes

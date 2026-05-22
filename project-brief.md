@@ -1,11 +1,16 @@
 # Overclock — Project Brief
+<<<<<<< Updated upstream
 **Focus Minties for Builders | Toronto, Canada**
 **Version 3.0 | May 2025**
+=======
+**Version 7 | May 2026**
+>>>>>>> Stashed changes
 
 ---
 
 ## EXECUTIVE SUMMARY
 
+<<<<<<< Updated upstream
 Overclock is a nootropic mint brand targeting gamers, coders, and Web3 builders in Canada. One SKU. One niche. One shot at owning the focus moment.
 
 No gym references. No wellnessfluencer copy. No protein line. Just: you're in the zone, you need to stay there, take one of these.
@@ -25,39 +30,89 @@ No gym references. No wellnessfluencer copy. No protein line. Just: you're in th
 **Budget:** $1,500 to $2,000 to first real inventory
 
 **Timeline:** 6 weeks to first sale
+=======
+Overclock is a functional mint brand targeting gamers, coders, and Web3 builders in Canada. One SKU. One niche. One shot at owning the focus moment.
+
+No gym references. No wellnessfluencer copy. No protein line. Just: you're in the zone, you need to stay there, you take a mint.
+
+**Product:** Pressed focus mints — 30-tablet flip-top tin, chocolate-espresso, sugar-free
+**Format reference:** Altoids / Neuro Mints
+**Price:** $10–14 retail / $6–8 wholesale
+>>>>>>> Stashed changes
 
 ---
 
-## 1. THE OPPORTUNITY
+## PRODUCT SPEC
 
-### Market Context
+**Name:** Overclock
+**Tagline:** Find your focus. Stay there.
+**Format:** Pressed focus mints (hand-pressed mint tablets), 30-count flip-top tin, chocolate-espresso
+**Price:** $6–8 wholesale / $10–14 retail
 
+<<<<<<< Updated upstream
 - Nootropics market (Canada): **$340M**, growing 12% YoY
 - Minties are the fastest-growing format in functional snacks
 - Gamer/coder demographic in Ontario: **2.4M daily active users**, ages 18–40
 - Web3/Solana event audience in GTA: **10K+ high-intent foot traffic annually**
+=======
+**Stack (per 1g tablet):**
+- Xylitol 60% — sugar-free sweetener base
+- Mannitol 10% — sugar alcohol
+- Dutch-processed cocoa 8% — chocolate base + theobromine
+- Coffee extract 3% — natural caffeine source
+- Ceremonial matcha 3% — L-theanine + gentle caffeine
+- Lion's mane dual-extract 2% — fruiting body
+- Vanilla 2% — flavor carrier
+- Natural chocolate flavor 1.5% — flavor blend
+- Sea salt 0.5% — flavor amplification
+- Stevia reb M 0.3% — zero-calorie sweetener
+- Calcium stearate 1% — tablet binding
+>>>>>>> Stashed changes
 
-### The Gap
+**Per tin (~30 tablets):**
+- ~75mg natural caffeine
+- ~50mg L-theanine
+- ~600mg lion's mane
+- Sugar-free / vegan / gluten-free
 
+<<<<<<< Updated upstream
 No brand in Canada is speaking directly to the coder in flow state, the gamer grinding ranked, or the builder shipping a feature. Existing nootropic brands (NeuroVance, Hedd Chocolate) skew wellness and general brain health. Nobody is building specifically for the "I'm in the zone — don't let me lose it" moment.
 
 **The opportunity:** Own the focus-and-flow niche in Canada before a US player enters.
+=======
+**Messaging rule:** Describe ingredients. Never claim effects. No "focus," "cognition," "flow state," "nootropic," "brain boost."
+>>>>>>> Stashed changes
 
 ---
 
-## 2. PROBLEM WE'RE SOLVING
+## UNIT ECONOMICS
 
+<<<<<<< Updated upstream
 | Problem | Current Reality |
 |---------|----------------|
 | Energy drinks cause jitters and crash | You get started but can't stay there |
 | No snack brand speaks to flow-state workers | It's either gym supplements or boring wellness bars |
 | Energy drink + snack combo doesn't exist at events | Two separate purchases, no bundling, no synergy |
 | Your friend's drink brand is complementary | Not a conflict — a bundle opportunity |
+=======
+| Metric | Value |
+|--------|-------|
+| All-in cost (200 tins) | $4.20–4.40/tin |
+| Marginal cost | $2.25/tin |
+| Retail price | $10–14 |
+| Wholesale price | $6–8 |
+| Event margin | ~70% |
+| Wholesale margin | 50–57% |
+| Breakeven | ~65–70 tins at $10 retail |
+
+**Startup cost:** $1,400–1,800 to first sale (200 tins)
+>>>>>>> Stashed changes
 
 ---
 
-## 3. BRAND
+## MARKET
 
+<<<<<<< Updated upstream
 ### Name: Overclock
 
 **Rationale:** A pad is your workspace. Munch is what you do while you're there. "Overclock" is the snack that belongs on a builder's desk. It says exactly what it is, exactly who it's for, and it sounds like a brand that belongs in a coder's workflow.
@@ -69,13 +124,27 @@ No brand in Canada is speaking directly to the coder in flow state, the gamer gr
 **Visual direction:** Dark, clean, workspace energy. Dark backgrounds, amber/yellow accent (like a desk lamp), purple highlights (for the Web3/crypto edge). Monospace accents. Clean, minimal, like a well-designed code editor.
 
 **Not a gym brand.** Not a wellness brand. A builder's brand.
+=======
+**Segment:** Brain mint / functional mint
+**Market size:** $407M (2026) → $722M (2036) — +77% in 10 years
+**CAGR:** ~6% (steady, focus-economy driven)
+
+**Whitespace:** No chocolate-espresso pressed mint in Canada. No Canadian Web3-builder functional food brand. First mover.
+
+**Competitors:** Neuro Mints (US), Awak'n (US), Run Gum (US), Viter (US) — all US-only. No direct Canadian competitor. Adjacent: Magic Mind, Alice Mushrooms, MOSH, GamerSupps.
+>>>>>>> Stashed changes
 
 ---
 
-## 4. AUDIENCE
+## REGULATORY
 
-### The Builder
+**Track:** Conventional food — same as Tic Tac
+- No NPN (natural health product authorization)
+- No Supplemented Foods compliance
+- No NIN (notification)
+- Standard bilingual EN/FR Nutrition Facts label (CFIA)
 
+<<<<<<< Updated upstream
 - Ages 18–35
 - Desk-bound 8–16 hours/day (coder, gamer, Web3 builder, hackathon participant)
 - In flow state, needs sustained focus without jitters or a crash
@@ -94,11 +163,17 @@ No brand in Canada is speaking directly to the coder in flow state, the gamer gr
 - Something that actually tastes good
 - A brand that gets how they work
 - No preachy health claims
+=======
+**Ontario production:** O. Reg. 493/17 low-risk food exemption — home production legal without commercial kitchen for conventional foods.
+
+**Key rule:** Describe ingredients. Never claim effects. Not a supplement. Not a drug. Just food.
+>>>>>>> Stashed changes
 
 ---
 
-## 5. PRODUCT
+## PRODUCTION
 
+<<<<<<< Updated upstream
 ### SKU: Focus Mints
 
 **Ingredients per serving:**
@@ -251,6 +326,87 @@ No brand owns the focus moment for builders in Canada. Nobody is speaking to the
 | PharmaGene | Quebec | 500 | ~$2.00 |
 
 **Recommendation:** Brandable Nutrition (Ontario, MOQ 250, lowest barrier to entry)
+=======
+### Phase 1: DIY (Weeks 1–4)
+- TDP-0 hand press + 10mm round dies
+- Food handler cert (Toronto Public Health, ~$50)
+- Ontario O. Reg. 493/17 — no commercial kitchen required
+
+### Phase 2: Co-manufacturer (Year 2+)
+- Triggers: 500+ tins/week demand, retail LOI, seed round
+- Rootree (Burlington, ON) — pressed tablets
+- Hownature (Markham, ON) — capsules + tablets
+- Herbaland (Richmond, BC) — MOQ 5,000–10,000
+
+---
+
+## BRAND VOICE
+
+**Reference:** Ledger, Arc, Linear, Raycast. Dark UI. High signal. No noise.
+
+**Color:** Dark espresso browns, near-black backgrounds, matte surfaces, amber accents. Never green mint.
+
+**Copy:** Short. Direct. Like a terminal. No fluff.
+
+**Tagline options:**
+1. **Find your focus. Stay there.** — Primary. Flow-state framing.
+2. **Focus, pressed.** — Double meaning: pressed under deadline + pressed mints.
+3. **Hand-pressed for builders.** — Small-batch craft framing.
+4. **Pressed in Toronto. Made for builders.** — Local pride + audience specificity.
+5. **One mint. Then build.** — Coder-native, minimal.
+
+---
+
+## BUDGET (200 tins)
+
+| Item | Cost |
+|------|------|
+| Ingredients + packaging | $450 |
+| Tablet press + dies | $400–600 |
+| Labels | $100 |
+| Food handler cert | $50 |
+| Insurance | $400–600 |
+| Contingency | $200 |
+| **Total** | **$1,400–1,800** |
+
+---
+
+## TIMELINE
+
+| Week | Milestone |
+|------|-----------|
+| W1 | Prototype — source ingredients, TDP-0 press, first 20 tablets |
+| W2 | Artwork + cert — tin label, food handler cert, EN/FR Nutrition Facts |
+| W3 | 100 tins — soft launch, community feedback |
+| W4–8 | 200+ tins — Superteam Canada / Toronto Solana event, first public sale |
+
+---
+
+## PARTNERSHIP ANGLE
+
+**The bundle:** Overclock mints + energy drink = complete focus stack.
+- Different categories. Same person. Same moment. No conflict.
+- "Your drink + my mint = complete focus stack."
+- 50/50 revenue on bundle at events.
+- Cross-promote on socials. Share booth cost.
+- Canada-first: no US competitor to lose to.
+
+---
+
+## WHAT'S DONE
+
+- [x] Name locked — Overclock
+- [x] Format locked — pressed mint tablets, 30-ct flip-top tin, chocolate-espresso
+- [x] Stack finalized — xylitol, mannitol, cocoa, coffee extract, matcha, lion's mane, vanilla, flavor, salt, stevia, calcium stearate
+- [x] Pricing set — $10–14 retail / $6–8 wholesale
+- [x] Regulatory path confirmed — conventional food, no NPN
+- [x] Competitors verified — Neuro Mints, Awak'n, Run Gum, Viter (all US)
+- [x] Market data validated — $407M segment, 6% CAGR
+- [ ] Incorporate under Overclock brand
+- [ ] CIPO trademark search
+- [ ] First prototype batch
+- [ ] Food handler cert
+>>>>>>> Stashed changes
 
 ---
 

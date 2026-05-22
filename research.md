@@ -1,10 +1,16 @@
+<<<<<<< Updated upstream
 # Overclock — Market Research
 *Toronto, Canada | Nootropics minties for gamers/coders/builders*
+=======
+# Overclock — Research File
+**Version 7 | May 2026**
+>>>>>>> Stashed changes
 
 ---
 
-## MARKET CONTEXT
+## PRODUCT DEFINITION
 
+<<<<<<< Updated upstream
 **Category:** Nootropic minties, focus snacks for builders
 **Audience:** Gamers (18–35), coders (18–40), Web3 builders, people in flow state
 **Format:** Focus Mints (hand-pressed mint tablets with Matcha + Cacao + Lion's Mane), 20-count kraft pouch
@@ -61,11 +67,78 @@ No brand owns the focus moment for builders in Canada. Nobody is speaking to the
 | Format | Cost | Wholesale | Retail | Margin |
 |--------|------|-----------|--------|--------|
 | 20-count pouch | $1.50–$2.00/serving × 20 | $4.00 | $7.00 | 70–79% |
+=======
+**Brand:** Overclock
+**Format:** Pressed focus mints — 30-tablet flip-top tin, chocolate-espresso flavor
+**Form factor reference:** Altoids / Neuro Mints
+**Stack (per 1g tablet):**
+- Xylitol 60% — sugar-free sweetener base
+- Mannitol 10% — sugar alcohol
+- Dutch-processed cocoa 8% — chocolate base + theobromine
+- Coffee extract 3% — natural caffeine source
+- Ceremonial matcha 3% — L-theanine + gentle caffeine
+- Lion's mane dual-extract 2% — fruiting body
+- Vanilla 2% — flavor carrier
+- Natural chocolate flavor 1.5% — flavor blend
+- Sea salt 0.5% — flavor amplification
+- Stevia reb M 0.3% — zero-calorie sweetener
+- Calcium stearate 1% — tablet binding
+
+**Per tin (~30 tablets):**
+- ~75mg natural caffeine (from coffee + matcha)
+- ~50mg L-theanine
+- ~600mg lion's mane
+- Sugar-free / vegan / gluten-free
+
+**Price:** $10–14 retail / $6–8 wholesale
+**Terminology:** "Hand-pressed" or "pressed" — never "cold-pressed" (Neuro Gum patent)
 
 ---
 
-## REGULATORY (Canada)
+## UNIT ECONOMICS (200 tins)
 
+| Item | Cost |
+|------|------|
+| All-in cost per tin | $4.20–4.40 |
+| Marginal cost (incremental) | $2.25 |
+| Retail price | $10–14 |
+| Wholesale price | $6–8 |
+| Event margin | ~70% |
+| Wholesale margin | 50–57% |
+| Breakeven | ~65–70 tins at $10 retail |
+
+**Budget breakdown (200 tins):**
+- Ingredients + packaging: $450
+- Tablet press + dies: $400–600
+- Labels: $100
+- Food handler cert: $50
+- Insurance: $400–600
+- Contingency: $200
+- **Total: $1,400–1,800**
+
+---
+
+## REGULATORY PATH
+
+**Track:** Conventional food — same as Tic Tac, Altoids
+- No NPN (not a natural health product)
+- No Supplemented Foods compliance (ingredient levels below threshold)
+- No NIN (notification) required
+- Standard bilingual EN/FR Nutrition Facts label (CFIA)
+- All ingredients are food ingredients — no isolates requiring authorization
+
+**Key rule:** Describe ingredients. Never claim effects.
+- Never: "focus," "cognition," "flow state," "nootropic," "brain boost," "mental performance"
+- Always: "Contains natural caffeine from coffee and matcha," "Pressed mint tablets with lion's mane"
+
+**Ontario production:** O. Reg. 493/17 low-risk food exemption — home production legal for conventional foods without commercial kitchen
+>>>>>>> Stashed changes
+
+---
+
+## COMPETITORS
+
+<<<<<<< Updated upstream
 ### Health Canada / CFIA
 
 - No NPN required for conventional functional food (structure/function claims only)
@@ -94,21 +167,71 @@ No brand owns the focus moment for builders in Canada. Nobody is speaking to the
 | PharmaGene | Quebec | 500 | ~$2.00/serving |
 
 **Recommendation:** Brandable Nutrition (Ontario, MOQ 250, lowest barrier to entry)
+=======
+### Direct (mint/brain tab format)
+| Brand | Origin | Price | Notes |
+|-------|--------|-------|-------|
+| **Neuro Mints** | US | ~$10/20ct | Cold-compression tech. Direct competitor format. Not in Canada. |
+| **Awak'n** | US | ~$8/20ct | Brain energizing mints. US-only. |
+| **Run Gum** | US | ~$8/12ct | Caffeinated gum/mints. US sports market. |
+| **Viter** | US | ~$10/30ct | Direct competitor in mint format. Not in Canada. |
+
+### Adjacent (functional, different format)
+| Brand | Type | Price | Notes |
+|-------|------|-------|-------|
+| **Magic Mind** | RTD mushroom coffee | ~$50/10ct | Different format, overlapping builder audience |
+| **Alice Mushrooms** | Functional chocolate | ~$28/4ct | $2.80/serving chocolate squares — closest analog |
+| **MOSH** | Protein/memory bar | ~$30/12ct | Different format, 18–35 male audience |
+| **Forij** | Mushroom coffee | ~$25/12ct | Coder/founder audience, US |
+| **GamerSupps** | Powdered energy | ~$30/40ct | Gamer-adjacent, US |
+| **GFuel** | Gaming energy formula | ~$35/40ct | Mass market gamer, US |
+
+### Real competitors to REMOVE (hallucinated in prior versions)
+~~NeuroVance~~ ~~Genius Brands~~ ~~Figma Snacks~~ ~~Hedd Chocolate~~ ~~Vivid~~ ~~Kickmate~~ ~~Brain Drink~~
+
+### Whitespace confirmed
+- Only chocolate-espresso pressed mint in Canada
+- Only Canadian brand built for Web3-builder persona
+- First mover in functional mint segment in Canada
 
 ---
 
-## DIFFERENTIATORS
+## MARKET DATA
 
+**Brain mint segment:** $407M (2026) → $722M (2036) — +77% in 10 years
+**Functional mints CAGR:** ~6% (steady, not hype-driven)
+**Drivers:** Focus economy, gaming, clean-label demand, discrete format preference
+>>>>>>> Stashed changes
+
+---
+
+## PRODUCTION
+
+<<<<<<< Updated upstream
 1. **Flow-state identity** — focus-and-flow positioning no competitor owns
 2. **Builder/coder voice** — not wellness, not gym, not generic brain health
 3. **Event channel** — first-mover at Web3/Solana/Superteam events
 4. **Drink partnership** — complementary bundle opportunity
 5. **One SKU focus** — one product, one moment, complete clarity
+=======
+### Phase 1: DIY (Ontario O. Reg. 493/17)
+- TDP-0 hand press + 10mm round dies
+- Food handler cert (Toronto Public Health, ~$50)
+- No commercial kitchen required
+- Target: 200 tins in 4 weeks
+
+### Phase 2: Co-manufacturer (Year 2+)
+- Trigger: 500+ tins/week demand, retail LOI, or seed round
+- **Rootree** — Burlington, ON (trail mix / pressed tablets)
+- **Hownature** — Markham, ON (capsules + pressed tablets)
+- **Herbaland** — Richmond, BC (Canada's largest tablet mfr, MOQ 5,000–10,000)
+>>>>>>> Stashed changes
 
 ---
 
-## RISKS
+## BRAND VOICE
 
+<<<<<<< Updated upstream
 - Consumer education at point of sale
 - DIY production limits scale
 - US competitor entry (watch Genius Brands)
@@ -127,3 +250,26 @@ No brand owns the focus moment for builders in Canada. Nobody is speaking to the
 ---
 
 *Prepared by: Cleo | May 2025*
+=======
+**Reference:** Ledger, Arc, Linear, Raycast
+- Dark espresso browns, near-black backgrounds, matte surfaces, amber accents
+- Never: green mint, wellness spa aesthetic, gamer neon, bubbly fonts
+- Photography: espresso tones, dark surfaces, tin on keyboard/desk setup
+- Copy: Short. Direct. Terminal-like. No fluff.
+- Tin goes next to your keyboard, not in your supplement drawer.
+
+---
+
+## TIMELINE
+
+| Week | Milestone |
+|------|-----------|
+| W1 | Prototype: source ingredients, buy TDP-0 press, make first 20 tablets |
+| W2 | Artwork: tin label design, food handler cert, EN/FR Nutrition Facts |
+| W3 | 100 tins — soft launch to friends, Discord, Twitter community |
+| W4–8 | 200+ tins at Superteam Canada / Toronto Solana event — first public sale |
+
+---
+
+*Prepared by: Cleo | May 2026*
+>>>>>>> Stashed changes
