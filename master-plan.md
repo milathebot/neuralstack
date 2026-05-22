@@ -1,360 +1,327 @@
-# MunchPad — Master Plan
-**Actionable Project Outline | Toronto, Canada | Updated: May 2026**
+# Overclock — Master Plan
+**Version 8 | May 2026**
 
 ---
 
-## WHAT WE'RE BUILDING
+## SITUATION
 
-MunchPad is a functional chocolate brand targeting gamers, coders, and Web3 builders in Canada. One SKU. One niche. One shot at owning the focus moment.
+Overclock is a functional mint brand targeting gamers, coders, and Web3 builders in Canada.
 
-**Product:** Focus Bites — dark chocolate squares with matcha and lion's mane
-- Primary format: Dark chocolate squares (10g each, 5 per pouch)
-- Alternative format: "Hacker's Trail" trail mix (for future consideration)
+**Product:** Pressed focus mints — 30-tablet flip-top tin, chocolate-espresso, sugar-free
+**Price:** $6–8 wholesale / $10–14 retail
+**Margin:** ~70% at events, 50–57% wholesale
+**Budget to launch:** $2,000–2,200 (200 tins + cNFT system + Shopify + insurance)
 
-**Price:** $5 wholesale / $8–10 retail
-**Margin:** 85–88% at events, 70–80% wholesale
-**Budget to first sale:** $1,250–$1,725
-**Timeline to first sale:** 6 weeks
+**On-chain:** Genesis cNFT (001–1,000) via Underdog Protocol on Solana. Non-transferable, non-tradable. Wallet-gated perks: 10% lifetime discount, early access, token-gated drops, Genesis channel access.
 
-**Positioning:** Find your focus. Stay there.
-**Not:** A late-night brand. A gym brand. A wellness brand.
+**Format reference:** Altoids / Neuro Mints
+**Terminology:** "Hand-pressed" or "pressed" — never "cold-pressed" (Neuro Gum patent)
 
 ---
 
-## WHY WE PIVOTED FROM GUMMIES TO CHOCOLATE
+## THE FORMULA (per 1g tablet)
 
-In Phase 2 (post-validation), we researched Ontario home food regulations and discovered that gummies are **not** on the province's low-risk home production list. This means:
+| Ingredient | % | Notes |
+|------------|---|-------|
+| Xylitol | 60% | Sugar-free sweetener base |
+| Mannitol | 10% | Sugar alcohol, clean taste |
+| Dutch-processed cocoa | 8% | Chocolate base + theobromine |
+| Coffee extract | 3% | Natural caffeine source |
+| Ceremonial matcha | 3% | L-theanine + gentle caffeine |
+| Lion's mane dual-extract | 2% | Fruiting body mushroom |
+| Vanilla | 2% | Flavor carrier |
+| Natural chocolate flavor | 1.5% | Flavor blend |
+| Sea salt | 0.5% | Flavor amplification |
+| Stevia reb M | 0.3% | Zero-calorie sweetener |
+| Calcium stearate | 1% | Tablet binding agent |
 
-- **Gummies require a commercial kitchen** — home production is not permitted under Ontario's Home Food Establishment regulations
-- **Co-manufacturer MOQs are prohibitive for a startup:** 1,000–5,000 units at $6,000–$15,000 minimum
-- **Chocolate and trail mix are explicitly listed** on Ontario's low-risk home production list — no commercial kitchen required for DIY production
-
-The pivot to dark chocolate squares gives us a producible, legal, and scalable product that can be made at home and later manufactured at scale through chocolate specialists.
-
----
-
-## WHERE WE ARE
-
-MVP pitch deck is done. Messaging is locked. Brand is named. The product concept is validated on paper. We have not:
-- Registered a domain
-- Filed incorporation
-- Sourced ingredients
-- Made a single batch
-- Sold anything
-
-This is a pre-launch project. Everything below is what needs to happen to get to first revenue.
+**Per tin (~30 tablets):** ~75mg natural caffeine, ~50mg L-theanine, ~600mg lion's mane
+**Dietary:** Sugar-free / vegan / gluten-free
 
 ---
 
-## PRODUCT: FOCUS BITES RECIPE
-
-### Dark Chocolate Batch (50 × 10g squares)
-
-| Ingredient | Quantity | Source | Cost |
-|-----------|----------|--------|------|
-| Callebaut 70% callets | 400g | Costco (~$30/2.5kg) | ~$5 |
-| Culinary matcha | 30g | Bulk Barn (~$15/100g) or Jade Leaf bulk | ~$5 |
-| Lion's mane powder | 20g | Lemon Lily Tea (~$45/500g) | ~$2 |
-| Sea salt | To taste | Any | ~$0.50 |
-| Vanilla extract | Optional | Any | ~$0.50 |
-| MCT oil | Optional | Any | ~$1 |
-
-**Batch cost:** ~$8–11
-**Yield:** 50 squares × 10g = 500g chocolate
-**Per pouch:** 5 squares (~$0.82–1.12 in ingredients)
-
-### Directions
-1. Melt Callebaut callets in a double boiler, stirring gently
-2. Add matcha powder and lion's mane powder, mix until homogeneous
-3. Add sea salt and vanilla to taste
-4. Pour into silicone mold (50-cavity square mold)
-5. Refrigerate until set (1–2 hours)
-6. Pop out and package in resealable pouches
-
-**Skill to develop:** Chocolate tempering — improves snap, shine, and shelf stability. Learn via YouTube tutorial before Batch 2.
-
----
-
-## WHAT NEEDS TO HAPPEN
-
-### PHASE 1 — FOUNDATION (Weeks 1–2)
-
-**Goal: Legally exist and own the digital presence.**
-
-#### 1.1 — Register Domain
-- [ ] Register **MunchPad.ca** (priority — Canada brand)
-- [ ] Also check/register **MunchPad.co** (backup)
-- Est. cost: $10–$20/year
-- Use: Namecheap, Hover, or Cloudflare
-
-#### 1.2 — Incorporate
-- [ ] File federal + provincial incorporation in Ontario
-- [ ] Corporate name: **MunchPad Inc.** (or similar)
-- Est. cost: $300–$400 (federal ~$200, Ontario ~$200)
-- Use: Ownr.ca (simplest for Ontario) or a paralegal
-- Timeline: 1–3 business days for Ontario incorporation
-- **Deliverable:** Certificate of Incorporation, corporate bank account
-
-#### 1.3 — Business Bank Account
-- [ ] Open a business chequing account (RBC, BMO, Alterna, eq bank)
-- Required: Incorporation documents, owner ID
-- Purpose: Separate personal and business finances
-- Est. cost: $0–$20/month
-
-#### 1.4 — CIPO Trademark Search
-- [ ] Run a search on CIPO (Canadian Intellectual Property Office) for "MunchPad" in Class 30 (food/drink)
-- [ ] If clear, file a trademark application
-- Est. cost: ~$500–$800 for filing
-- Note: Do this before spending money on branding that might conflict
-
-#### 1.5 — Domain Email
-- [ ] Set up **hello@MunchPad.ca** or **hello@MunchPad.co** via Cloudflare Email Routing (free) or Google Workspace (~$8/month)
-
----
-
-### PHASE 2 — PRODUCT DEVELOPMENT (Weeks 2–4)
+## PHASE 1 — DIY PROTOTYPE (Weeks 1–4)
 
 **Goal: Have a physical product to test.**
 
-#### 2.1 — Source Ingredients
-- [ ] **Chocolate callets:** Buy Callebaut 70% from Costco (~$30/2.5kg bag)
-- [ ] **Culinary matcha:** Buy from Bulk Barn (~$15/100g) or Jade Leaf bulk
-- [ ] **Lion's mane powder:** Buy from Lemon Lily Tea (~$45/500g)
-- [ ] **Extras:** Sea salt, vanilla extract, MCT oil (optional)
-- Est. cost: ~$60–80 for first batch run + extras
+### 1.1 — Source Ingredients
+- [ ] Source from Costco, Bulk Barn, and online:
+  - Costco: Dutch-processed cocoa powder, vanilla extract, sea salt
+  - Bulk Barn: xylitol (compressible/granular), mannitol if available
+  - Online: ceremonial matcha (Jade Leaf, Encha, Aki Matcha), lion's mane dual-extract (Real Mushrooms or Nootropics Depot, ~$25–40/100g), calcium stearate food-grade (NOW Foods), stevia reb M, natural chocolate flavor powder, decaf coffee extract powder
+- Est. cost: ~$100–150 for initial run (200+ tins worth)
 
-#### 2.2 — Buy Equipment
-- [ ] Silicone chocolate mold (50-cavity square mold) — Amazon CA
-- [ ] Digital kitchen scale (0.1g precision) — already common in most kitchens
-- [ ] Heat-seal bagger or impulse sealer — for pouch packaging
-- [ ] Small funnel or squeeze bottle — for filling pouches
-- Est. cost: $150–300 (one-time)
+### 1.2 — Buy Tablet Press
+- [ ] Buy TDP-0 tablet press + 10mm round dies on Amazon CA (7–10 day delivery) or AliExpress (2–3 weeks, cheaper)
+  - Amazon CA: ~$300
+  - AliExpress: ~$180–220
+  - This is the hand-press — standard mechanical compression, not cold-pressed
 
-#### 2.3 — First Test Batch (DIY)
-- [ ] Make 50 dark chocolate squares with matcha + lion's mane:
-  1. Melt Callebaut callets in double boiler
-  2. Whisk in matcha and lion's mane powder
-  3. Add sea salt and vanilla to taste
-  4. Pour into silicone mold
-  5. Refrigerate 1–2 hours until set
-  6. Remove from mold, package 5 squares per pouch
-- [ ] Test with friends, at a meetup, or keep for personal use
-- **Deliverable:** Physical product for feedback
-- Est. cost: ~$8–11 per batch
+### 1.3 — First Test Batch (DIY Hand-Press)
+- [ ] Make first 50 tablets:
+  1. Mix dry ingredients in correct proportions by weight, sieve through fine mesh
+  2. Press into 10mm round tablets using TDP-0 hand press
+  3. Test-press 5 tablets first — check hardness and ejection
+  4. Adjust compression pressure as needed
+  5. Press 50, store in airtight container
+- [ ] Self-test 2–3 days: note dominant flavor, off-notes, aftertaste, mouthfeel, dissolve time, sweetness
+- [ ] Distribute to 8–10 honest testers (Solana devs, coders, gamer friends). Ask for written feedback: flavor (1–10), texture (1–10), would-pay-$12-for-30 (Y/N), one thing to change.
+- **Deliverable:** 50 prototype tablets + tasting note doc + 8–10 written tester reviews
+- Note: "Hand-pressed" is the accurate description. Not cold-pressed (Neuro Gum's patent).
 
-#### 2.4 — Packaging Prototype
-- [ ] Design a simple label on Canva (free)
-- Label must include:
-  - Product name (Focus Bites)
-  - Ingredients list
-  - Net quantity (5 squares × 10g each)
-  - Nutrition Facts table
-  - Allergen declaration (milk, may contain traces of nuts)
-  - Caffeine disclosure (natural, from matcha + cacao)
-  - Bilingual (EN + FR) — required for Quebec, encouraged for all
-  - Company name and address
-  - **No focus/cognition claims** ("focus," "cognitive," etc. are disallowed without NPN)
-- [ ] Print on sticker paper (Avery or equivalent) and apply to resealable pouches
-- Est. cost: ~$50 for labels + sticker paper
+### 1.4 — Packaging Prototype
+- [ ] Design a simple tin label (Canva or Figma)
+  - Overclock branding, bilingual EN/FR, Nutrition Facts table
+  - Dark espresso / matte brown aesthetic (reference: Ledger, Arc, Linear)
+- [ ] Order 5–10 unbranded prototype tins from Amazon CA (~$1–2 each) for taste testing
+- [ ] Print labels (local Toronto print shop or Cat Printed online)
+- Est. cost: ~$50–100 for first run of labels
 
----
+### 1.5 — Food Handler Cert
+- [ ] Get food handler certification online via TrainCan or CIFS
+  - Est. cost: ~$50
+  - ~4 hours, valid 5 years
+  - Required for selling food at events / retail in Ontario
 
-### PHASE 3 — FIRST EVENT (Weeks 4–6)
-
-**Goal: Get the product in front of the right people and make first revenue.**
-
-#### 3.1 — Identify First Event
-- [ ] Find the next Superteam Canada or Solana/Web3 meetup in Toronto/GTA
-  - Check: Superteam Canada Twitter/X, Solana events pages, Meetup.com
-  - Apply for a table/booth (often free or low cost for community events)
-- [ ] Also check: farmers markets (Kensington, St. Lawrence, Stackt), local hackathons
-- Tip: Superteam Canada events are the highest-intent audience for this product
-
-#### 3.2 — Prepare for the Event
-- [ ] Print enough product for the event (aim for 50–100 pouches)
-- [ ] Bring:
-  - Cash box + QR code for e-transfer (no Square/Stripe needed yet)
-  - Product labels applied
-  - A simple sign or banner (foldable, portable)
-  - Business cards or a link to the online store (for future D2C)
-- [ ] Practice a 15-second pitch:
-  > "MunchPad — Focus Bites. Dark chocolate with matcha and lion's mane. Natural energy, no crash. $8."
-
-#### 3.3 — Execute First Event
-- [ ] Attend the event, staff the table
-- [ ] Sell product, collect cash/e-transfer
-- [ ] Take notes on:
-  - What people said (positive and negative)
-  - How many sold
-  - What questions they asked
-  - Flavor/texture feedback
-- **Goal:** Sell 50–100 pouches, collect real feedback
-- Revenue target: $400–1,000 at $8–10/pouch
-
-#### 3.4 — Document Feedback
-- [ ] After the event, write up a brief feedback summary
-- [ ] Update the product label or packaging based on what people said
-- [ ] Lock the formula if feedback is positive; iterate if not
+### 1.6 — Quote Insurance
+- [ ] Get liability insurance quote from PolicyMe, Zensurance, or a local broker
+  - ~$1M general commercial liability for home-based food maker
+  - ~$400–600/year
+  - Get quote in writing, don't bind yet
 
 ---
 
-### PHASE 4 — POST-FIRST-SALE (Month 2–3)
+## PHASE 2 — SOFT LAUNCH (Weeks 3–4)
 
-**Goal: Reinvest revenue, build the loop, prepare for co-manufacturing.**
+**Goal: 100 tins, community feedback, first revenue, live cNFT mint flow.**
 
-#### 4.1 — Reinvest Loop
-- [ ] Take first event revenue ($400–$1,000 estimated)
-- [ ] Reinvest into: ingredients for batch 2–3, better packaging, more molds (to speed up DIY production)
-- **Learn:** Chocolate tempering technique for improved product quality
-- Goal: Attend 2–3 events per month, build revenue runway
+### 2.1 — Iterate Formula
+- [ ] Incorporate tester feedback: adjust matcha %, lion's mane %, cocoa intensity, sweetness
+- [ ] Press second batch of 50, re-test with 3–5 original testers
+- [ ] Lock v2 formula
 
-#### 4.2 — D2C Online Store (Simple)
-- [ ] Set up a Shopify store (or use Gumroad for simplicity)
-- [ ] List the Focus Bites with real photos and the approved label
-- [ ] Set up e-transfer or Stripe for payments
-- [ ] Drive traffic via: Instagram, Twitter/X, Solana community, Discord
+### 2.2 — Order Branded Tins
+- [ ] Order 250+ flip-top metal tins
+  - Sources: Uline Canada, Pacific Bag, Berlin Packaging, Alibaba
+  - ~$0.80–$1.20 each
+  - Lead time 1–3 weeks — order Week 3 to have for Week 4
+  - Get tin design + Genesis numbering done first — etched or printed serial numbers #001–#1000
 
-#### 4.3 — Event Circuit Expansion
-- [ ] NXTD and local festivals (higher volume, more sampling)
-- [ ] Gaming cafes / esports lounges in Toronto (ask about consignment or display)
-- [ ] More Superteam/Solana events (build the recurring channel)
+### 2.3 — Finalize Label Artwork
+- [ ] Confirm label includes:
+  - Bilingual Nutrition Facts table
+  - Bilingual ingredient list with allergens
+  - Net quantity, dealer name (Overclock Foods, Vaughan ON address), lot/date code
+  - QR code pointing to overclock.co — leads to wallet connection + benefits page
+- [ ] Order 250–500 custom labels via Sticker Mule, VistaPrint, or local printer
+  - ~$0.20–$0.40 each
+  - Est. cost: ~$75
 
-#### 4.4 — Co-Manufacturer Research
-- [ ] Research and contact manufacturers for future scale-up:
-  - **Rootree** (Burlington, ON) — co-packer for trail mix or pre-made fillings
-  - **Soma Chocolatemaker** (Toronto) — small-batch private label chocolate
-  - **Hownature Nutraceutical** (Markham, ON) — gummy/capsule, worth a call for future phases
-  - **Herbaland** (Richmond, BC) — future scale-up
-- Note: Don't engage until demand is confirmed (100+ units sold DIY)
+### 2.4 — On-Chain: Move to Mainnet
+- [ ] Move cNFT mint flow from devnet to Solana mainnet
+  - Same code, switch RPC endpoint
+  - Fund mint wallet with ~0.5 SOL (covers 10,000+ cNFT mints)
+  - Test one real mint to a friend's wallet, verify on Solscan
+- [ ] Build Solana Pay checkout flow:
+  - Event QR: generate payment QR, displayed at booth. On payment confirmation, capture buyer's wallet address, trigger cNFT mint
+  - Online: standalone Solana Pay flow (Shopify integration in Week 5)
+  - Have manual fallback: collect wallet addresses on paper, mint cNFTs in batch post-event
 
----
+### 2.5 — Produce 100 Tins
+- [ ] Press 100 production tablets (~3,000 tablets at 30/tin, ~30–40 hours across 5–7 evenings)
+- [ ] Fill, seal, label each tin
+- [ ] Package: 30-tablet flip-top tin, EN/FR labels
 
-## REGULATORY NOTES
-
-- **Plain food track** — no NPN (Natural Product Number) required for chocolate squares with food ingredients
-- **Bilingual labels** — English and French required for Quebec sales; recommended for all Canadian listings
-- **No focus/cognition claims** on label — "focus," "cognitive," "brain," "memory" are functional food claims that require Health Canada authorization. Use "natural energy" or "contains caffeine" only.
-- **New front-of-pack symbol (Jan 2026)** — Canada is rolling out front-of-pack warning labels for foods high in sodium, sugar, or saturated fat. Plan label design to avoid triggering these if possible.
-- **Caffeine from natural sources only** — matcha and cacao are the only caffeine sources
-- **Do NOT add:** isolated caffeine powder, L-theanine powder (as an additive), or B vitamins — these change the regulatory classification
-
----
-
-## THE TEAM
-
-| Role | Who |
-|------|-----|
-| Product formulation + production | [Owner] |
-| Branding + design | [Owner] |
-| Sales + events | [Owner] |
-| Ops + legal + admin | Cleo |
+### 2.6 — Soft Validation Event
+- [ ] Small Toronto event: crypto meetup, coffee shop pop-up, hackathon prep night, friend's launch party
+- [ ] Bring 50–75 tins
+- [ ] Goals: real customers, real payments (cash + Solana Pay), first Genesis cNFTs minted (#001–#075), direct feedback, photos for social
+- [ ] Bind insurance before this event
 
 ---
 
-## BUDGET SUMMARY
+## PHASE 3 — LAUNCH (Weeks 5–6)
 
-| Item | Est. Cost |
-|------|-----------|
-| Domain registration | $10–$20 |
-| Incorporation (federal + Ontario) | $300–$400 |
-| CIPO trademark search + filing | $500–$800 |
-| Ingredients (200 pouches) | $200–$275 |
-| Packaging (200 pouches) | $100–$150 |
-| One-time equipment (scales, molds, sealer) | $150–$300 |
-| Custom labels | $50 |
-| Food handler certificate | ~$50 |
-| Liability insurance | $400–$600/year (defer if needed) |
-| Brand setup | $100 |
+**Goal: 200+ tins at Superteam Canada / Toronto Solana event. Genesis cNFTs #075–#250+.**
+
+### 3.1 — Build Shopify Storefront
+- [ ] Set up Shopify Lite ($5/mo) or basic Shopify ($39/mo)
+- [ ] Integrate: Solana Pay checkout (Helio or Crossmint), wallet connection + Genesis discount logic, cNFT minting on order completion, token-gated landing page
+
+### 3.2 — Press Final 100–150 Tins
+- [ ] Debrief soft launch — what worked, what didn't
+- [ ] Press additional 100–150 tins (total 200–250 for main event)
+
+### 3.3 — Launch Genesis cNFT Collection
+- [ ] Design and finalize Genesis cNFT visual (1080x1080 PNG, on-chain metadata via Underdog)
+- [ ] Deploy Genesis cNFT collection on mainnet: supply cap 1,000, non-transferable, non-tradable, 0% royalties
+- [ ] Verify on Solscan, log collection address
+
+### 3.4 — Launch Telegram Channels
+- [ ] Public: @OverclockMints — announcements, drops, general community
+- [ ] Genesis-gated: @OverclockGenesis — locked behind cNFT verification via Collab.Land or Guild.xyz. Seed with 10–20 friends so it's not empty at launch.
+
+### 3.5 — Pre-Event Marketing
+- [ ] Twitter/X thread announcing Overclock, Solana integration, Genesis 1000
+- [ ] Telegram channel post with countdown
+- [ ] Direct outreach to 10–20 Solana people in Canada + UAE — first 100 Genesis holders
+- [ ] Confirm event date and booth details with Superteam Canada
+
+### 3.6 — LAUNCH DAY
+**At the event:**
+- [ ] 200+ tins packed and ready
+- [ ] Solana Pay QR code printed/displayed (laptop + backup phone)
+- [ ] Card reader for fiat (Square, ~$60 device + 2.65% fee — encourage Solana Pay)
+- [ ] Cash float (~$200 in 5s and 10s)
+- [ ] Genesis cNFT mint flow tested, backup on phone
+- [ ] Business cards / QR codes to website and Telegram
+- [ ] Photos and video — document everything
+- [ ] Sell tins, mint Genesis cNFTs in real-time
+- [ ] Collect emails for fiat payers or wallet-less buyers
+
+**Day-of post-event:**
+- [ ] Tweet/post launch with photos
+- [ ] Welcome new Genesis holders to Telegram channel personally
+- [ ] Thank Superteam Canada publicly
+
+---
+
+## PHASE 4 — SUSTAIN AND CONVERT (Weeks 7–8+)
+
+**Goal: Repeat purchases, wholesale, next event, co-brand partnerships.**
+
+### 4.1 — Re-engage Genesis Holders
+- [ ] Day 1 follow-up: "Thanks for being a Genesis holder. Here's how to use your perks. Telegram is here."
+- [ ] Day 5 follow-up: "Restock available + here's what's next." Drive online reorders.
+
+### 4.2 — First Wholesale Conversations
+- [ ] Reach out to 3–5 Toronto crypto-adjacent spots: Bitcoin Embassy, Cluster Cafe, Cohash co-working, hackerspaces, dev-focused cafes
+- [ ] Pitch: stock Overclock at $6–8 wholesale
+
+### 4.3 — Plan Next Event
+- [ ] Next Toronto Solana meetup, Breakpoint side event, or UAE Solana event
+- [ ] Genesis tins #200+ sold there
+
+### 4.4 — Co-Brand Outreach
+- [ ] Reach out to 5 Solana projects: Superteam Canada, Tensor, Backpack, MagicEden, Phantom, Cypher Capital UAE, Solana Mobile
+- [ ] Pitch: "Co-branded tin for your community/event. Limited run of 100–300 tins. We handle production, you handle distribution."
+
+### 4.5 — Replenish Inventory
+- [ ] Press 100–200 more tins for next event + wholesale + online reorders
+
+### 4.6 — Dashboard
+- [ ] Set up Shopify analytics + on-chain dashboard
+- [ ] Track: tins sold, Genesis cNFTs minted (current of 1,000), reorder rate, wallet retention, Telegram growth
+- [ ] Weekly review
+
+---
+
+## UNIT ECONOMICS
+
+| Metric | Value |
+|--------|-------|
+| All-in cost (200 tins) | $4.20–4.40/tin |
+| Marginal cost (incremental) | $2.25/tin |
+| Retail price | $10–14 |
+| Wholesale price | $6–8 |
+| Event margin | ~70% |
+| Wholesale margin | 50–57% |
+| Breakeven | ~65–70 tins at $10 retail |
+
+---
+
+## BUDGET
+
+| Item | Cost |
+|------|------|
+| Ingredients + Packaging | $240 |
+| Tablet Press + Dies | $400–600 |
+| Business Registration | $60 |
+| Kitchen Scale + Supplies | $50 |
+| Labels + Artwork | $75 |
+| Food Handler Cert | $50 |
+| Insurance | $400–600 |
+| cNFT Minting + Ops | $80 |
 | Contingency | $200 |
-| **Total to first event** | **~$1,250–$1,725** |
-
-Revenue after first event: $400–$1,000 (50–100 pouches at $8–10)
-Revenue after 3 events: $1,200–$3,000
-**Break-even: Month 1–2.** Reinvest loop starts immediately.
+| **Total** | **$2,000–2,200** |
 
 ---
 
-## WHAT NOT TO DO YET
+## PARTNERSHIP — BUNDLE PLAY
 
-- Don't file for an NPN (not needed — plain food with food ingredients only)
-- Don't invest in a co-manufacturer (too early; MOQ 1,000+ units, $6K–15K minimum)
-- Don't build a full e-commerce site before validating at events
-- Don't trademark internationally (Canada first)
-- Don't raise external capital until product-market fit is confirmed
-- Don't use focus/cognition/brain claims on labels (regulatory risk)
-- Don't add isolated nutrients (L-theanine powder, caffeine powder, B vitamins)
+**The pitch:** Your energy drink brand + Overclock mints = complete focus stack.
 
----
+- Different categories. Same person. Same moment. No conflict.
+- Bundle at events. Co-brand tin labels. 50/50 revenue split on bundle.
+- Cross-promote on socials. Share booth cost.
+- Canada-first: Viter, Run Gum, Neuro Mints aren't here. No US competition to lose to.
 
-## KEY DATES
-
-| Milestone | Target |
-|-----------|--------|
-| Domain registered | Week 1 (May 2026) |
-| Incorporation filed | Week 1–2 (May 2026) |
-| CIPO search complete | Week 2 (May 2026) |
-| Ingredients purchased | Week 2–3 (May 2026) |
-| Equipment purchased | Week 2–3 (May 2026) |
-| First chocolate batch made | Week 3–4 (May–June 2026) |
-| Label design + printing | Week 4–5 (June 2026) |
-| First event | Week 5–6 (June 2026) |
-| First revenue | Week 5–6 (June 2026) |
-| Break-even | Month 2 (July 2026) |
-| Co-manufacturer research | Month 3+ (July 2026+) |
-| 10+ events attended | Month 3 (July 2026) |
-| Phase 2 production run (gummy pivot — if demand confirmed) | Month 4–6 |
-
-**Note:** Gummy pivot is a Phase 2 consideration, post-validation. If DIY chocolate proves demand, gummy co-manufacturing becomes an option at Month 4–6 with confirmed revenue.
+**"Your drink + my mint = complete focus stack."**
 
 ---
 
-## MANUFACTURER CONTACTS
+## REGULATORY SUMMARY
 
-For future scale-up (when DIY hits capacity limits):
+| Item | Status |
+|------|--------|
+| NPN | Not required — conventional food, not natural health product |
+| Supplemented Foods compliance | Not required — ingredient levels below threshold |
+| NIN | Not required — conventional food |
+| EN/FR Nutrition Facts label | Required — standard CFIA bilingual label |
+| Ontario home production | Legal under O. Reg. 493/17 (confirm with York Region Public Health before spending) |
 
-| Company | Location | Notes |
-|---------|----------|-------|
-| Rootree | Burlington, ON | Co-packer for trail mix or pre-made fillings |
-| Soma Chocolatemaker | Toronto, ON | Small-batch private label chocolate |
-| Hownature Nutraceutical | Markham, ON | Gummy/capsule — worth a call for future phases |
-| Herbaland | Richmond, BC | Future scale-up |
-
----
-
-## READINESS CHECKLIST
-
-Before attending the first event, confirm:
-
-- [ ] Domain registered
-- [ ] Incorporation complete (or in progress)
-- [ ] Label meets Health Canada requirements (EN + FR for Quebec, no functional claims)
-- [ ] Product is packaged and labeled
-- [ ] Cash box or e-transfer ready
-- [ ] 15-second pitch practiced
-- [ ] Enough product made (aim for 50–100 pouches)
-- [ ] Event confirmed, booth/table secured
-- [ ] Food handler certificate obtained (recommended)
-- [ ] New front-of-pack symbol considered in label design
+**Messaging rule:** Describe ingredients. Never claim effects.
+- Never: "focus," "cognition," "flow state," "nootropic," "brain boost"
+- Always: "Contains natural caffeine from coffee and matcha," "Pressed mint tablets with lion's mane"
 
 ---
 
-## RESOURCES
+## TOOLS & RESOURCES
 
-**Incorporation:** Ownr.ca (Ontario)
+**Incorporation:** ServiceOntario (sole proprietorship, ~$60)
 **Domain:** Namecheap, Hover, Cloudflare
-**Chocolate callets:** Costco (Callebaut 70%)
-**Matcha:** Bulk Barn, Jade Leaf
-**Lion's mane:** Lemon Lily Tea
-**Chocolate mold:** Amazon.ca (search "silicone chocolate mold")
-**Label design:** Canva (free)
+**CIPO trademark search:** ised-isde.canada.ca/cipo (Nice Class 30)
+**Ingredients:** Costco, Bulk Barn, Amazon CA, specialtyIngredient shops online
+**Tablet press:** Amazon CA (fast) / AliExpress (cheap)
+**Label design:** Canva (free) or Figma (free)
+**Label printing:** Sticker Mule, VistaPrint, local Toronto printer
 **Business banking:** RBC, BMO, Alterna Bank, EQ Bank
+**Insurance:** PolicyMe, Zensurance, local broker
+**Food handler cert:** TrainCan, CIFS (~$50, online, ~4 hours)
 **Events:** Superteam Canada, Solana events, Meetup.com (Toronto tech/gaming)
-**Trademark:** CIPO (cipo.ic.gc.ca)
-**Ontario home food rules:** O. Reg. 91/14 (Ontario's Home Food Establishment regulation)
-**Co-manufacturers:** Rootree, Soma, Hownature, Herbaland (see contacts above)
+**cNFT minting:** Underdog Protocol (underdogprotocol.com)
+**Checkout:** Solana Pay (QR at events), Shopify + Helio/Crossmint (online)
+**Telegram:** @OverclockMints (public), @OverclockGenesis (cNFT-gated via Collab.Land/Guild.xyz)
 
 ---
 
-*This document is the source of truth for MunchPad Phase 1. Update as you learn more.*
+## WHAT'S DONE / NOT DONE
 
-*Prepared by: Cleo | Updated: May 2026*
+**Done:**
+- [x] Name locked — Overclock
+- [x] Format locked — pressed mint tablets, 30-ct flip-top tin, chocolate-espresso
+- [x] Stack finalized — exact formula with percentages
+- [x] Pricing set — $10–14 retail / $6–8 wholesale
+- [x] Regulatory path confirmed — conventional food, no NPN
+- [x] Competitors verified — Neuro Mints, Awak'n, Run Gum, Viter (all US-only)
+- [x] Market data validated — $407M segment, 6% CAGR, Canada whitespace
+- [x] Brand voice defined — Ledger/Arc/Linear/Raycast aesthetic, dark brown/black/matte
+- [x] Genesis cNFT structure — non-transferable, non-tradable, 001–1,000, 4 perks
+- [x] 8-week sprint plan documented in action-plan.md
+
+**Week 0 (this week):**
+- [ ] Confirm event date with Superteam Canada
+- [ ] Call York Region Public Health (1-800-361-5653) — confirm O. Reg. 493/17 eligibility
+- [ ] Trademark + domain + handle check
+- [ ] Register business (ServiceOntario, ~$60)
+- [ ] Set up wallets, Underdog account, Shopify Lite
+
+**In progress:**
+- [ ] Source ingredients
+- [ ] Buy TDP-0 tablet press
+- [ ] First prototype batch
+- [ ] Food handler cert
+
+---
+
+*Prepared by: Cleo | May 2026*
